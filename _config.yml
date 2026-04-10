@@ -1,7 +1,7 @@
 title: Mathematics Resources Hub
 description: "Lisans öğrencileri için matematik kaynakları merkezi"
-baseurl: ""
-url: ""
+baseurl: "/math-resources-hub"
+url: "https://mehmetyurtsever-math.github.io"
 
 theme: minima
 
