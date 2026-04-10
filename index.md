@@ -1,72 +1,72 @@
 ---
 layout: default
-title: Ana Sayfa
+title: Home
 ---
 
 # 📚 Mathematics Resources Hub
 
-Lisans öğrencileri için kapsamlı matematik kaynakları merkezi. Her konu için ders notları, kitap önerileri, web siteleri ve video dersler doğrudan görünür bölümler halinde düzenlenmiştir.
+A comprehensive collection of math resources for undergraduate students. Each topic includes lecture notes, book recommendations, websites, and video lectures.
 
 ---
 
-<h2 id="analysis">Analysis</h2>
+<h2 id="topics">Topics</h2>
 
-[Analysis (Analiz)]({{ '/analysis/' | relative_url }}) için içerikler ve diğer matematik konu başlıkları aşağıda listelenmiştir.
+Browse the topics below — click any card to explore curated resources for that subject.
 
 <div class="topic-grid">
 
 <a class="topic-card" href="{{ '/analysis/' | relative_url }}">
   <span class="topic-icon">∫</span>
-  <h3>Analysis (Analiz)</h3>
-  <p>Limitler, türev, integral, metrik uzaylar ve gerçel analiz.</p>
+  <h3>Analysis</h3>
+  <p>Limits, derivatives, integrals, metric spaces, and real analysis.</p>
 </a>
 
 <a class="topic-card" href="{{ '/linear-algebra/' | relative_url }}">
   <span class="topic-icon">⊕</span>
-  <h3>Linear Algebra (Doğrusal Cebir)</h3>
-  <p>Vektör uzayları, matrisler, özdeğerler ve dönüşümler.</p>
+  <h3>Linear Algebra</h3>
+  <p>Vector spaces, matrices, eigenvalues, and linear transformations.</p>
 </a>
 
 <a class="topic-card" href="{{ '/abstract-algebra/' | relative_url }}">
   <span class="topic-icon">⊗</span>
-  <h3>Abstract Algebra (Soyut Cebir)</h3>
-  <p>Gruplar, halkalar, cisimler ve cebirsel yapılar.</p>
+  <h3>Abstract Algebra</h3>
+  <p>Groups, rings, fields, and algebraic structures.</p>
 </a>
 
 <a class="topic-card" href="{{ '/group-theory/' | relative_url }}">
   <span class="topic-icon">◈</span>
-  <h3>Group Theory (Grup Teorisi)</h3>
-  <p>Grup aksiyomları, alt gruplar, normalleştirici ve simetri.</p>
+  <h3>Group Theory</h3>
+  <p>Group axioms, subgroups, normal subgroups, and symmetry.</p>
 </a>
 
 <a class="topic-card" href="{{ '/logic-and-proofs/' | relative_url }}">
   <span class="topic-icon">⊢</span>
-  <h3>Logic and Proofs (Mantık ve İspatlar)</h3>
-  <p>Önermeler mantığı, küme teorisi ve ispat teknikleri.</p>
+  <h3>Logic and Proofs</h3>
+  <p>Propositional logic, set theory, and proof techniques.</p>
 </a>
 
 <a class="topic-card" href="{{ '/galois-theory/' | relative_url }}">
   <span class="topic-icon">𝔾</span>
-  <h3>Galois Theory (Galois Teorisi)</h3>
-  <p>Cisim uzantıları, Galois grubu ve polinomların çözülebilirliği.</p>
+  <h3>Galois Theory</h3>
+  <p>Field extensions, Galois groups, and solvability of polynomials.</p>
 </a>
 
 <a class="topic-card" href="{{ '/commutative-algebra/' | relative_url }}">
   <span class="topic-icon">𝕽</span>
-  <h3>Commutative Algebra (Değişmeli Cebir)</h3>
-  <p>Halkalar, idealler, modüller ve Noetherian yapılar.</p>
+  <h3>Commutative Algebra</h3>
+  <p>Rings, ideals, modules, and Noetherian structures.</p>
 </a>
 
 <a class="topic-card" href="{{ '/complex-analysis/' | relative_url }}">
   <span class="topic-icon">ℂ</span>
-  <h3>Complex Analysis (Karmaşık Analiz)</h3>
-  <p>Karmaşık fonksiyonlar, analitiklik, Cauchy teoremi ve rezidüler.</p>
+  <h3>Complex Analysis</h3>
+  <p>Complex functions, analyticity, Cauchy's theorem, and residues.</p>
 </a>
 
 <a class="topic-card" href="{{ '/differential-geometry/' | relative_url }}">
   <span class="topic-icon">𝜅</span>
-  <h3>Differential Geometry (Diferansiyel Geometri)</h3>
-  <p>Eğriler, yüzeyler, manifoldlar ve eğrilik kavramları.</p>
+  <h3>Differential Geometry</h3>
+  <p>Curves, surfaces, manifolds, and curvature.</p>
 </a>
 
 <a class="topic-card" href="{{ '/algebraic-geometry/' | relative_url }}">
@@ -85,4 +85,4 @@ Lisans öğrencileri için kapsamlı matematik kaynakları merkezi. Her konu iç
 
 ---
 
-> **Nasıl Kullanılır?** Yukarıdaki kartlardan bir konuya tıklayın. Her konu sayfasında *Ders Notları*, *Kitap Önerileri*, *Web Siteleri* ve *Video Dersler* bölümleri doğrudan görünür şekilde sunulmaktadır.
+> **How to use:** Click a card above to explore that topic. Each topic page contains lecture notes, book recommendations, websites, and video lectures.

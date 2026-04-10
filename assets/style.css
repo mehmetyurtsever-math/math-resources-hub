@@ -333,7 +333,11 @@ details[open] > summary {
 }
 
 @media (max-width: 320px) {
-  .site-title { font-size: 1rem; }
-  .site-nav a { font-size: 0.72rem; padding: 3px 6px; }
-  h1 { font-size: 1.4rem; }
+  .site-header { padding: 6px 12px; }
+  .site-title { font-size: 0.95rem; }
+  .site-nav a { font-size: 0.7rem; padding: 3px 5px; }
+  h1 { font-size: 1.3rem; }
+  .footer-nav { gap: 3px 8px; }
+  .footer-copyright { font-size: 0.78rem; }
+  .page-content { padding: 20px 10px; }
 }
