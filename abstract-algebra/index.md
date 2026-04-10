@@ -9,9 +9,8 @@ Gruplar, halkalar ve cisimler gibi cebirsel yapıları aksiyomatik biçimde ince
 
 ---
 
-<details>
-<summary>📖 Ders Notları</summary>
-<div class="details-body">
+## 📖 Ders Notları
+
 
 ### Temel Kavramlar
 
@@ -47,12 +46,9 @@ Gruplar, halkalar ve cisimler gibi cebirsel yapıları aksiyomatik biçimde ince
 - Alıştırma: $S_3$'ün tüm alt gruplarını bulun.
 - Alıştırma: $\mathbb{Z}[x]$'in $\mathbb{Z}$ üzerinde Öklid bölgesi olmadığını gösterin.
 
-</div>
-</details>
 
-<details>
-<summary>📚 Kitap Önerileri</summary>
-<div class="details-body">
+## 📚 Kitap Önerileri
+
 
 ### Başlangıç Seviyesi
 
@@ -78,12 +74,9 @@ Gruplar, halkalar ve cisimler gibi cebirsel yapıları aksiyomatik biçimde ince
   - Homolojik cebir dahil, geniş kapsam.
   - Zorluk: ★★★★☆ | Dil: İngilizce
 
-</div>
-</details>
 
-<details>
-<summary>🌐 Web Siteleri ve Kaynaklar</summary>
-<div class="details-body">
+## 🌐 Web Siteleri ve Kaynaklar
+
 
 ### İnteraktif Kaynaklar
 
@@ -96,12 +89,9 @@ Gruplar, halkalar ve cisimler gibi cebirsel yapıları aksiyomatik biçimde ince
 - [Algebra Qualifying Exams](https://math.stackexchange.com/questions/tagged/abstract-algebra) — Math StackExchange arşivi
 - [Putnam Competition Problems](https://kskedlaya.org/putnam-archive/) — Cebir bölümü
 
-</div>
-</details>
 
-<details>
-<summary>🎬 Video Dersler</summary>
-<div class="details-body">
+## 🎬 Video Dersler
+
 
 ### Üniversite Dersleri
 
@@ -114,8 +104,6 @@ Gruplar, halkalar ve cisimler gibi cebirsel yapıları aksiyomatik biçimde ince
 - [Richard Borcherds](https://www.youtube.com/@RichardBorcherds) — Gruplar, halkalar, cisimler (ileri seviye)
 - [The Bright Side of Mathematics](https://www.youtube.com/@brightsideofmaths) — Group Theory serisi
 
-</div>
-</details>
 
 ---
 

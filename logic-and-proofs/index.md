@@ -9,9 +9,8 @@ Matematiksel düşüncenin temeli: önerme mantığı, küme teorisi, ispat tekn
 
 ---
 
-<details>
-<summary>📖 Ders Notları</summary>
-<div class="details-body">
+## 📖 Ders Notları
+
 
 ### Temel Kavramlar
 
@@ -48,12 +47,9 @@ Matematiksel düşüncenin temeli: önerme mantığı, küme teorisi, ispat tekn
 - **Cantor Teoremi:** $|A| < |\mathcal{P}(A)|$ her küme için.
 - **Schroeder-Bernstein:** $|A| \leq |B|$ ve $|B| \leq |A| \Rightarrow |A| = |B|$.
 
-</div>
-</details>
 
-<details>
-<summary>📚 Kitap Önerileri</summary>
-<div class="details-body">
+## 📚 Kitap Önerileri
+
 
 ### Başlangıç Seviyesi
 
@@ -83,12 +79,9 @@ Matematiksel düşüncenin temeli: önerme mantığı, küme teorisi, ispat tekn
   - Büyük kardinallar dahil kapsamlı referans.
   - Zorluk: ★★★★★ | Dil: İngilizce
 
-</div>
-</details>
 
-<details>
-<summary>🌐 Web Siteleri ve Kaynaklar</summary>
-<div class="details-body">
+## 🌐 Web Siteleri ve Kaynaklar
+
 
 ### Ücretsiz Kaynaklar
 
@@ -101,12 +94,9 @@ Matematiksel düşüncenin temeli: önerme mantığı, küme teorisi, ispat tekn
 - [Putnam Archive](https://kskedlaya.org/putnam-archive/) — Olimpiyat seviyesi ispat problemleri
 - [Math StackExchange — Proof Writing](https://math.stackexchange.com/questions/tagged/proof-writing)
 
-</div>
-</details>
 
-<details>
-<summary>🎬 Video Dersler</summary>
-<div class="details-body">
+## 🎬 Video Dersler
+
 
 ### Üniversite Dersleri
 
@@ -119,8 +109,6 @@ Matematiksel düşüncenin temeli: önerme mantığı, küme teorisi, ispat tekn
 - [Logic & Proof — Lara Alcock](https://www.youtube.com/results?search_query=lara+alcock+proof) — İspat okuma ve yazma
 - [Michael Penn — Proof Videos](https://www.youtube.com/@michaelpennmath) — Günlük ispat videolar
 
-</div>
-</details>
 
 ---
 

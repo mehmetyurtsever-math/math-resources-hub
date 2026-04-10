@@ -5,9 +5,13 @@ title: Ana Sayfa
 
 # 📚 Mathematics Resources Hub
 
-Lisans öğrencileri için kapsamlı matematik kaynakları merkezi. Her konu için ders notları, kitap önerileri, web siteleri ve video dersler accordion (açılır/kapanır) biçiminde düzenlenmiştir.
+Lisans öğrencileri için kapsamlı matematik kaynakları merkezi. Her konu için ders notları, kitap önerileri, web siteleri ve video dersler doğrudan görünür bölümler halinde düzenlenmiştir.
 
 ---
+
+<h2 id="analysis">Analysis</h2>
+
+[Analysis (Analiz)]({{ '/analysis/' | relative_url }}) için içerikler ve diğer matematik konu başlıkları aşağıda listelenmiştir.
 
 <div class="topic-grid">
 
@@ -69,4 +73,4 @@ Lisans öğrencileri için kapsamlı matematik kaynakları merkezi. Her konu iç
 
 ---
 
-> **Nasıl Kullanılır?** Yukarıdaki kartlardan bir konuya tıklayın. Her konu sayfasında *Ders Notları*, *Kitap Önerileri*, *Web Siteleri* ve *Video Dersler* bölümleri açılır/kapanır biçimde sunulmaktadır.
+> **Nasıl Kullanılır?** Yukarıdaki kartlardan bir konuya tıklayın. Her konu sayfasında *Ders Notları*, *Kitap Önerileri*, *Web Siteleri* ve *Video Dersler* bölümleri doğrudan görünür şekilde sunulmaktadır.

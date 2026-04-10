@@ -9,9 +9,16 @@ Gerçel ve karmaşık sayılar üzerinde fonksiyonların davranışını, limit,
 
 ---
 
-<details>
-<summary>📖 Ders Notları</summary>
-<div class="details-body">
+Bu sayfa Analysis konusundaki temel kaynakları tek yerde toplar.
+
+### Hızlı Analysis Kaynakları
+
+- [MIT 18.100A — Real Analysis](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/)
+- [Paul's Online Math Notes](https://tutorial.math.lamar.edu/)
+- [Khan Academy — Calculus](https://www.khanacademy.org/math/calculus-1)
+
+## 📖 Ders Notları
+
 
 ### Temel Kavramlar
 
@@ -57,12 +64,9 @@ Gerçel ve karmaşık sayılar üzerinde fonksiyonların davranışını, limit,
 - **Bolzano-Weierstrass:** Her sınırlı dizi yakınsak bir alt dizi içerir.
 - **Taylor Serisi:** $f(x) = \sum_{n=0}^{\infty} \dfrac{f^{(n)}(a)}{n!}(x-a)^n$ — yakınsaklık koşulları.
 
-</div>
-</details>
 
-<details>
-<summary>📚 Kitap Önerileri</summary>
-<div class="details-body">
+## 📚 Kitap Önerileri
+
 
 ### Başlangıç Seviyesi
 
@@ -101,12 +105,9 @@ Gerçel ve karmaşık sayılar üzerinde fonksiyonların davranışını, limit,
 - **Ahmet Okay Çelebi** — *Analiz I–II*
   - Türk üniversitelerinde yaygın kullanılan kapsamlı ders kitabı.
 
-</div>
-</details>
 
-<details>
-<summary>🌐 Web Siteleri ve Kaynaklar</summary>
-<div class="details-body">
+## 🌐 Web Siteleri ve Kaynaklar
+
 
 ### İnteraktif Kaynaklar
 
@@ -127,12 +128,9 @@ Gerçel ve karmaşık sayılar üzerinde fonksiyonların davranışını, limit,
 - [Encyclopedia of Mathematics](https://encyclopediaofmath.org/) — Matematik ansiklopedisi
 - [MathWorld — Analysis](https://mathworld.wolfram.com/analysis.html) — Wolfram kapsamlı referans
 
-</div>
-</details>
 
-<details>
-<summary>🎬 Video Dersler</summary>
-<div class="details-body">
+## 🎬 Video Dersler
+
 
 ### Üniversite Dersleri
 
@@ -153,8 +151,6 @@ Gerçel ve karmaşık sayılar üzerinde fonksiyonların davranışını, limit,
 - [Türkiye Bilimler Akademisi — Matematik](https://www.youtube.com/@TUBA_Turkiye) — Türkçe matematik dersleri
 - [YTÜ Uzaktan Eğitim](https://www.youtube.com/@ytuuzaktanegitim) — Üniversite seviyesi Türkçe dersler
 
-</div>
-</details>
 
 ---
 

@@ -9,9 +9,8 @@ Calculus araçlarıyla eğriler, yüzeyler ve manifoldların geometrisini incele
 
 ---
 
-<details>
-<summary>📖 Ders Notları</summary>
-<div class="details-body">
+## 📖 Ders Notları
+
 
 ### Temel Kavramlar
 
@@ -50,12 +49,9 @@ Calculus araçlarıyla eğriler, yüzeyler ve manifoldların geometrisini incele
 - **Riemann Eğrilik Tensörü:** $R(X,Y)Z = \nabla_X\nabla_Y Z - \nabla_Y\nabla_X Z - \nabla_{[X,Y]}Z$.
 - **Geodezikler:** Eğriliği sıfır olan eğriler — yüzeyde "düz çizgi" genellemesi.
 
-</div>
-</details>
 
-<details>
-<summary>📚 Kitap Önerileri</summary>
-<div class="details-body">
+## 📚 Kitap Önerileri
+
 
 ### Başlangıç Seviyesi
 
@@ -85,12 +81,9 @@ Calculus araçlarıyla eğriler, yüzeyler ve manifoldların geometrisini incele
   - Eşsiz kapsamlılık, tarihsel notlar.
   - Zorluk: ★★★★★ | Dil: İngilizce
 
-</div>
-</details>
 
-<details>
-<summary>🌐 Web Siteleri ve Kaynaklar</summary>
-<div class="details-body">
+## 🌐 Web Siteleri ve Kaynaklar
+
 
 ### İnteraktif Kaynaklar
 
@@ -103,12 +96,9 @@ Calculus araçlarıyla eğriler, yüzeyler ve manifoldların geometrisini incele
 - [do Carmo — Solutions](https://math.stackexchange.com/questions/tagged/differential-geometry)
 - [Qualifying Exam Problems — Geometry](https://math.stackexchange.com/questions/tagged/riemannian-geometry)
 
-</div>
-</details>
 
-<details>
-<summary>🎬 Video Dersler</summary>
-<div class="details-body">
+## 🎬 Video Dersler
+
 
 ### Üniversite Dersleri
 
@@ -121,8 +111,6 @@ Calculus araçlarıyla eğriler, yüzeyler ve manifoldların geometrisini incele
 - [XylyXylyX — Differential Geometry](https://www.youtube.com/@XylyXylyX) — Manifoldlar ve formlar
 - [Michael Penn](https://www.youtube.com/@michaelpennmath) — Diferansiyel geometri problemleri
 
-</div>
-</details>
 
 ---
 

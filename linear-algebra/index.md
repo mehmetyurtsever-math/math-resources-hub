@@ -9,9 +9,8 @@ Vektörler, matrisler, doğrusal dönüşümler ve vektör uzaylarını inceleye
 
 ---
 
-<details>
-<summary>📖 Ders Notları</summary>
-<div class="details-body">
+## 📖 Ders Notları
+
 
 ### Temel Kavramlar
 
@@ -54,12 +53,9 @@ Vektörler, matrisler, doğrusal dönüşümler ve vektör uzaylarını inceleye
 - **LU Ayrışımı:** Doğrusal sistemlerin etkin çözümü.
 - **Pozitif Tanımlı Matrisler:** $x^TAx > 0,\ \forall x \neq 0$.
 
-</div>
-</details>
 
-<details>
-<summary>📚 Kitap Önerileri</summary>
-<div class="details-body">
+## 📚 Kitap Önerileri
+
 
 ### Başlangıç Seviyesi
 
@@ -94,12 +90,9 @@ Vektörler, matrisler, doğrusal dönüşümler ve vektör uzaylarını inceleye
 - **Ömer Köküsarı** — *Lineer Cebir* — Türkçe üniversite ders kitabı.
 - **Mustafa Balcı** — *Lineer Cebir* — Temel kavramlar, alıştırmalar.
 
-</div>
-</details>
 
-<details>
-<summary>🌐 Web Siteleri ve Kaynaklar</summary>
-<div class="details-body">
+## 🌐 Web Siteleri ve Kaynaklar
+
 
 ### İnteraktif Kaynaklar
 
@@ -119,12 +112,9 @@ Vektörler, matrisler, doğrusal dönüşümler ve vektör uzaylarını inceleye
 - [MIT 18.06 Problem Sets](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/assignments/) — Strang'in ödev soruları
 - [Linear Algebra Done Right — Exercises](https://linear.axler.net/) — Axler'ın problem setleri
 
-</div>
-</details>
 
-<details>
-<summary>🎬 Video Dersler</summary>
-<div class="details-body">
+## 🎬 Video Dersler
+
 
 ### Üniversite Dersleri
 
@@ -142,8 +132,6 @@ Vektörler, matrisler, doğrusal dönüşümler ve vektör uzaylarını inceleye
 
 - [Ahmet Yıldırım — Lineer Cebir](https://www.youtube.com/) — Türk üniversitelerinde kullanılan ders serisi
 
-</div>
-</details>
 
 ---
 
