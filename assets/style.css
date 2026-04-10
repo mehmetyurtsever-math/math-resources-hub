@@ -102,6 +102,55 @@ a:hover { color: var(--primary-hover); text-decoration: none; }
   text-decoration: none;
 }
 
+/* ---------- Site Search ---------- */
+.site-search {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  width: 100%;
+  order: 2;
+}
+
+#site-search-input {
+  flex: 1;
+  background: rgba(255,255,255,0.08);
+  border: 1px solid rgba(255,255,255,0.18);
+  border-radius: 8px;
+  color: #e0e7ff;
+  font-size: 0.82rem;
+  padding: 5px 10px;
+  outline: none;
+  transition: border-color var(--transition), background var(--transition);
+  min-width: 0;
+}
+
+#site-search-input::placeholder { color: rgba(165,180,252,0.6); }
+
+#site-search-input:focus {
+  border-color: var(--primary);
+  background: rgba(99,102,241,0.12);
+}
+
+#site-search-clear {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  border: none;
+  color: #a5b4fc;
+  font-size: 0.82rem;
+  cursor: pointer;
+  padding: 4px 6px;
+  border-radius: 6px;
+  transition: background var(--transition), color var(--transition);
+  flex-shrink: 0;
+}
+
+#site-search-clear:hover {
+  background: rgba(99,102,241,0.2);
+  color: #fff;
+}
+
 /* ---------- Ana İçerik ---------- */
 .page-content {
   padding: 48px 24px;
@@ -325,6 +374,7 @@ details[open] > summary {
   .header-inner { gap: 8px; }
   .site-title { width: 100%; padding-top: 2px; }
   .site-nav { width: 100%; justify-content: flex-start; }
+  .site-search { width: 100%; }
   .footer-nav { justify-content: flex-start; gap: 4px 12px; }
 }
 
