@@ -9,7 +9,13 @@ title: Galois Theory (Galois Teorisi)
 
 ---
 
-## 📖 Ders Notları
+## Quick Overview
+
+- [James Milne — Fields and Galois Theory (PDF)](https://www.jmilne.org/math/CourseNotes/FT.pdf)
+- [Keith Conrad — Galois Theory Notes](https://kconrad.math.uconn.edu/blurbs/)
+- [MIT 18.702 — Algebra II](https://ocw.mit.edu/courses/18-702-algebra-ii-spring-2011/)
+
+## Core Concepts
 
 
 ### Temel Kavramlar
@@ -44,7 +50,7 @@ title: Galois Theory (Galois Teorisi)
 - $x^4 - 2$ polinomunun ayrışım cismi ve Galois grubu $D_4$.
 
 
-## 📚 Kitap Önerileri
+## Recommended Books
 
 
 ### Başlangıç Seviyesi
@@ -72,7 +78,7 @@ title: Galois Theory (Galois Teorisi)
   - Zorluk: ★★★★☆ | Dil: İngilizce
 
 
-## 🌐 Web Siteleri ve Kaynaklar
+## Web Resources
 
 
 ### Ücretsiz Kaynaklar
@@ -87,7 +93,7 @@ title: Galois Theory (Galois Teorisi)
 - [MIT 18.702 — Problem Sets](https://ocw.mit.edu/courses/18-702-algebra-ii-spring-2011/pages/assignments/)
 
 
-## 🎬 Video Dersler
+## Video Lectures
 
 
 ### Üniversite Dersleri

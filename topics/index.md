@@ -1,40 +1,11 @@
 ---
 layout: default
-title: Home
+title: Topics
 ---
 
-<div class="hero">
-  <h1 class="hero-title">📚 Mathematics Resources Hub</h1>
-  <p class="hero-subtitle">Curated lecture notes, books, websites, and video lectures for undergraduate mathematics — all in one place.</p>
-  <div class="hero-actions">
-    <a class="btn-primary" href="{{ '/topics/' | relative_url }}">Explore Topics</a>
-    <a class="btn-secondary" href="{{ '/recommended-links/' | relative_url }}">Recommended Links</a>
-  </div>
-</div>
+# 📐 Topics
 
-<div class="features-grid">
-  <div class="feature-item">
-    <span class="feature-icon">📖</span>
-    <h3>Lecture Notes</h3>
-    <p>Definitions, theorems, proofs, and worked examples for each subject.</p>
-  </div>
-  <div class="feature-item">
-    <span class="feature-icon">📚</span>
-    <h3>Books</h3>
-    <p>Beginner to advanced recommendations, including free resources.</p>
-  </div>
-  <div class="feature-item">
-    <span class="feature-icon">🎬</span>
-    <h3>Videos & Playlists</h3>
-    <p>University lecture series and YouTube channels handpicked for quality.</p>
-  </div>
-</div>
-
----
-
-<h2 id="topics">Topics</h2>
-
-Browse the topics below — click any card to explore curated resources for that subject.
+Browse all math subjects in one place. Each topic page contains lecture notes, book recommendations, web resources, and video lectures.
 
 <div class="topic-grid">
 
@@ -96,12 +67,6 @@ Browse the topics below — click any card to explore curated resources for that
   <span class="topic-icon">𝕍</span>
   <h3>Algebraic Geometry</h3>
   <p>Foundations of schemes, varieties, sheaves, and modern algebraic geometry.</p>
-</a>
-
-<a class="topic-card" href="{{ '/recommended-links/' | relative_url }}">
-  <span class="topic-icon">🔗</span>
-  <h3>Recommended Math Links</h3>
-  <p>A curated list of high-quality external math resources, textbooks, lecture notes, and problem archives.</p>
 </a>
 
 </div>

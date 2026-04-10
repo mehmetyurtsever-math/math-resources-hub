@@ -9,7 +9,13 @@ A curated list of high-quality external math resources, textbooks, lecture notes
 
 ---
 
-## 📖 Free Textbooks and Lecture Notes
+## Quick Overview
+
+- [MIT OpenCourseWare — Mathematics](https://ocw.mit.edu/courses/mathematics/)
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+- [Stacks Project](https://stacks.math.columbia.edu/)
+
+## Recommended Books
 
 ### General Mathematics
 - [Paul's Online Math Notes](https://tutorial.math.lamar.edu/) — Calculus, differential equations, algebra; clear and well-organized
@@ -29,9 +35,7 @@ A curated list of high-quality external math resources, textbooks, lecture notes
 - [Hatcher — Algebraic Topology](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html) — Free standard graduate text
 - [Thurston — Three-Dimensional Geometry and Topology](http://library.msri.org/books/gt3m/) — Geometric topology
 
----
-
-## 🌐 Online References and Encyclopedias
+## Web Resources
 
 - [Stacks Project](https://stacks.math.columbia.edu/) — Comprehensive online reference for algebraic geometry and commutative algebra (with proofs)
 - [nLab](https://ncatlab.org/nlab/show/HomePage) — Category-theoretic perspective on mathematics and physics
@@ -39,26 +43,20 @@ A curated list of high-quality external math resources, textbooks, lecture notes
 - [Wolfram MathWorld](https://mathworld.wolfram.com/) — Broad mathematical reference with formulas and examples
 - [DLMF — Digital Library of Mathematical Functions](https://dlmf.nist.gov/) — NIST reference for special functions
 
----
-
-## 💬 Q&A Communities
+### Q&A Communities
 
 - [Mathematics Stack Exchange](https://math.stackexchange.com/) — High-quality Q&A for undergraduates and graduates
 - [MathOverflow](https://mathoverflow.net/) — Research-level mathematical questions
 - [Art of Problem Solving (AoPS)](https://artofproblemsolving.com/) — Competition mathematics and community forums
 
----
-
-## 🏆 Problem Archives
+### Problem Archives
 
 - [Project Euler](https://projecteuler.net/) — Mathematical and computational problems
 - [Art of Problem Solving — Contests](https://artofproblemsolving.com/community/c13_contests) — AMC, AIME, Olympiad problems
 - [Brilliant.org](https://brilliant.org/) — Interactive problem-solving in math and science
 - [Putnam Archive](https://kskedlaya.org/putnam-archive/) — William Lowell Putnam competition problems and solutions
 
----
-
-## 🎬 Video Lecture Collections
+## Video Lectures
 
 - [MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/) — Free videos and materials from MIT math courses
 - [NPTEL Mathematics](https://nptel.ac.in/courses/111/) — Indian Institute of Technology courses
@@ -67,9 +65,7 @@ A curated list of high-quality external math resources, textbooks, lecture notes
 - [Michael Penn](https://www.youtube.com/@michaelpennmath) — Broad undergraduate and graduate topics
 - [The Bright Side of Mathematics](https://www.youtube.com/@brightsideofmaths) — Real analysis, topology, functional analysis
 
----
-
-## 📐 LaTeX and Mathematical Writing
+### LaTeX and Mathematical Writing
 
 - [Overleaf — LaTeX Documentation](https://www.overleaf.com/learn) — Comprehensive LaTeX guide with live editor
 - [Detexify](https://detexify.kirelabs.org/) — Draw a symbol to find its LaTeX command

@@ -9,7 +9,13 @@ Calculus araçlarıyla eğriler, yüzeyler ve manifoldların geometrisini incele
 
 ---
 
-## 📖 Ders Notları
+## Quick Overview
+
+- [MIT 18.950 — Differential Geometry](https://ocw.mit.edu/courses/18-950-differential-geometry-fall-2008/)
+- [do Carmo — Differential Geometry of Curves and Surfaces](https://en.wikipedia.org/wiki/Differential_Geometry_of_Curves_and_Surfaces)
+- [Eigenchris — Tensor Calculus](https://www.youtube.com/@eigenchris)
+
+## Core Concepts
 
 
 ### Temel Kavramlar
@@ -50,7 +56,7 @@ Calculus araçlarıyla eğriler, yüzeyler ve manifoldların geometrisini incele
 - **Geodezikler:** Eğriliği sıfır olan eğriler — yüzeyde "düz çizgi" genellemesi.
 
 
-## 📚 Kitap Önerileri
+## Recommended Books
 
 
 ### Başlangıç Seviyesi
@@ -82,7 +88,7 @@ Calculus araçlarıyla eğriler, yüzeyler ve manifoldların geometrisini incele
   - Zorluk: ★★★★★ | Dil: İngilizce
 
 
-## 🌐 Web Siteleri ve Kaynaklar
+## Web Resources
 
 
 ### İnteraktif Kaynaklar
@@ -97,7 +103,7 @@ Calculus araçlarıyla eğriler, yüzeyler ve manifoldların geometrisini incele
 - [Qualifying Exam Problems — Geometry](https://math.stackexchange.com/questions/tagged/riemannian-geometry)
 
 
-## 🎬 Video Dersler
+## Video Lectures
 
 
 ### Üniversite Dersleri

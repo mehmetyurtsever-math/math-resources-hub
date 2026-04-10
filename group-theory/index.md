@@ -9,7 +9,13 @@ Simetriyi matematiksel olarak kodlayan cebirsel yapılar. Kristalografi'den kuan
 
 ---
 
-## 📖 Ders Notları
+## Quick Overview
+
+- [Visual Group Theory — YouTube](https://www.youtube.com/playlist?list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv)
+- [Group Explorer](https://nathancarter.github.io/group-explorer/)
+- [Keith Conrad — Algebra Notes](https://kconrad.math.uconn.edu/blurbs/)
+
+## Core Concepts
 
 
 ### Temel Kavramlar
@@ -44,7 +50,7 @@ Simetriyi matematiksel olarak kodlayan cebirsel yapılar. Kristalografi'den kuan
 - Alıştırma: Mertebesi 15 olan her grubun devirli olduğunu gösterin.
 
 
-## 📚 Kitap Önerileri
+## Recommended Books
 
 
 ### Başlangıç Seviyesi
@@ -72,7 +78,7 @@ Simetriyi matematiksel olarak kodlayan cebirsel yapılar. Kristalografi'den kuan
   - Zorluk: ★★★★☆ | Dil: İngilizce
 
 
-## 🌐 Web Siteleri ve Kaynaklar
+## Web Resources
 
 
 ### İnteraktif Kaynaklar
@@ -87,7 +93,7 @@ Simetriyi matematiksel olarak kodlayan cebirsel yapılar. Kristalografi'den kuan
 - [MIT OCW — Group Theory Problems](https://ocw.mit.edu/courses/18-703-modern-algebra-spring-2013/pages/assignments/)
 
 
-## 🎬 Video Dersler
+## Video Lectures
 
 
 ### Üniversite Dersleri

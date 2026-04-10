@@ -9,15 +9,15 @@ Gerçel ve karmaşık sayılar üzerinde fonksiyonların davranışını, limit,
 
 ---
 
-Bu sayfa Analysis konusundaki temel kaynakları tek yerde toplar.
+## Quick Overview
 
-### Hızlı Analysis Kaynakları
+Bu sayfa Analysis konusundaki temel kaynakları tek yerde toplar.
 
 - [MIT 18.100A — Real Analysis](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/)
 - [Paul's Online Math Notes](https://tutorial.math.lamar.edu/)
 - [Khan Academy — Calculus](https://www.khanacademy.org/math/calculus-1)
 
-## 📖 Ders Notları
+## Core Concepts
 
 
 ### Temel Kavramlar
@@ -65,7 +65,7 @@ Bu sayfa Analysis konusundaki temel kaynakları tek yerde toplar.
 - **Taylor Serisi:** $f(x) = \sum_{n=0}^{\infty} \dfrac{f^{(n)}(a)}{n!}(x-a)^n$ — yakınsaklık koşulları.
 
 
-## 📚 Kitap Önerileri
+## Recommended Books
 
 
 ### Başlangıç Seviyesi
@@ -106,7 +106,7 @@ Bu sayfa Analysis konusundaki temel kaynakları tek yerde toplar.
   - Türk üniversitelerinde yaygın kullanılan kapsamlı ders kitabı.
 
 
-## 🌐 Web Siteleri ve Kaynaklar
+## Web Resources
 
 
 ### İnteraktif Kaynaklar
@@ -129,7 +129,7 @@ Bu sayfa Analysis konusundaki temel kaynakları tek yerde toplar.
 - [MathWorld — Analysis](https://mathworld.wolfram.com/analysis.html) — Wolfram kapsamlı referans
 
 
-## 🎬 Video Dersler
+## Video Lectures
 
 
 ### Üniversite Dersleri
