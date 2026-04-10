@@ -18,6 +18,7 @@ Calculus araçlarıyla eğriler, yüzeyler ve manifoldların geometrisini incele
 ## 📖 Lecture Notes
 
 Lecture note links will be added soon.
+
 ## 📚 Textbooks
 
 

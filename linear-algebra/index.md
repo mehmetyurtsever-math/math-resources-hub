@@ -18,6 +18,7 @@ Vektörler, matrisler, doğrusal dönüşümler ve vektör uzaylarını inceleye
 ## 📖 Lecture Notes
 
 Lecture note links will be added soon.
+
 ## 📚 Textbooks
 
 
