@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  <script>
+    MathJax = {
+      tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+      svg: { fontCache: 'global' }
+    };
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js" async></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="site-title" href="{{ '/' | relative_url }}">📚 {{ site.title }}</a>
+      <nav class="site-nav">
+        <a href="{{ '/analysis/' | relative_url }}">Analysis</a>
+        <a href="{{ '/linear-algebra/' | relative_url }}">Linear Algebra</a>
+        <a href="{{ '/abstract-algebra/' | relative_url }}">Abstract Algebra</a>
+        <a href="{{ '/group-theory/' | relative_url }}">Group Theory</a>
+        <a href="{{ '/logic-and-proofs/' | relative_url }}">Logic & Proofs</a>
+        <a href="{{ '/galois-theory/' | relative_url }}">Galois Theory</a>
+        <a href="{{ '/commutative-algebra/' | relative_url }}">Commutative Algebra</a>
+        <a href="{{ '/complex-analysis/' | relative_url }}">Complex Analysis</a>
+        <a href="{{ '/differential-geometry/' | relative_url }}">Differential Geometry</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="page-content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p>
+        <strong>Hızlı Erişim:</strong>
+        <a href="{{ '/analysis/' | relative_url }}">Analysis</a> ·
+        <a href="{{ '/linear-algebra/' | relative_url }}">Linear Algebra</a> ·
+        <a href="{{ '/abstract-algebra/' | relative_url }}">Abstract Algebra</a> ·
+        <a href="{{ '/group-theory/' | relative_url }}">Group Theory</a> ·
+        <a href="{{ '/logic-and-proofs/' | relative_url }}">Logic &amp; Proofs</a> ·
+        <a href="{{ '/galois-theory/' | relative_url }}">Galois Theory</a> ·
+        <a href="{{ '/commutative-algebra/' | relative_url }}">Commutative Algebra</a> ·
+        <a href="{{ '/complex-analysis/' | relative_url }}">Complex Analysis</a> ·
+        <a href="{{ '/differential-geometry/' | relative_url }}">Differential Geometry</a>
+      </p>
+      <p>© {{ site.title }} — Lisans öğrencileri için matematik kaynakları</p>
+    </div>
+  </footer>
+</body>
+</html>
