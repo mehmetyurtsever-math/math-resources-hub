@@ -105,6 +105,16 @@
 
       input.addEventListener('input', applyFilter);
 
+      input.addEventListener('keydown', function (e) {
+        if (e.key === 'Enter') {
+          e.preventDefault();
+          var q = input.value.trim();
+          if (q) {
+            window.location.href = '{{ "/search/" | relative_url }}?q=' + encodeURIComponent(q);
+          }
+        }
+      });
+
       clearBtn.addEventListener('click', function () {
         input.value = '';
         applyFilter();
