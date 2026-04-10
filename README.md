@@ -27,16 +27,22 @@ math-resources-hub/
 │   └── default.html         # Navigasyon + footer içeren şablon
 ├── assets/
 │   └── style.css            # Tema ve responsive CSS
-├── index.md                 # Ana sayfa (9 konu kartı)
+├── index.md                 # Ana sayfa (5 üst seviye konu kartı)
 ├── analysis/index.md        # Analiz sayfası (detaylı içerik)
 ├── linear-algebra/index.md  # Doğrusal cebir sayfası
 ├── abstract-algebra/index.md
 ├── group-theory/index.md
+├── algebra/index.md         # Cebir alt-konu kartları
+├── ring-modules-representation-theory/index.md
+├── category-theory/index.md
 ├── logic-and-proofs/index.md
 ├── galois-theory/index.md
 ├── commutative-algebra/index.md
 ├── complex-analysis/index.md
-└── differential-geometry/index.md
+├── differential-geometry/index.md
+├── foundation-and-discrete-math/index.md
+├── number-theory/index.md
+└── topology/index.md
 ```
 
 ## Bölüm Yapısı
