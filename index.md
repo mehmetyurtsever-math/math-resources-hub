@@ -69,6 +69,18 @@ Lisans öğrencileri için kapsamlı matematik kaynakları merkezi. Her konu iç
   <p>Eğriler, yüzeyler, manifoldlar ve eğrilik kavramları.</p>
 </a>
 
+<a class="topic-card" href="{{ '/algebraic-geometry/' | relative_url }}">
+  <span class="topic-icon">𝕍</span>
+  <h3>Algebraic Geometry</h3>
+  <p>Foundations of schemes, varieties, sheaves, and modern algebraic geometry.</p>
+</a>
+
+<a class="topic-card" href="{{ '/recommended-links/' | relative_url }}">
+  <span class="topic-icon">🔗</span>
+  <h3>Recommended Math Links</h3>
+  <p>A curated list of high-quality external math resources, textbooks, lecture notes, and problem archives.</p>
+</a>
+
 </div>
 
 ---
