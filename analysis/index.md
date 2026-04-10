@@ -17,10 +17,10 @@ Bu sayfa Analysis konusundaki temel kaynakları tek yerde toplar.
 - [Paul's Online Math Notes](https://tutorial.math.lamar.edu/)
 - [Khan Academy — Calculus](https://www.khanacademy.org/math/calculus-1)
 
-## Core Concepts
+## 📖 Lecture Notes
 
 Lecture note links will be added soon.
-## Recommended Books
+## 📚 Textbooks
 
 
 ### Başlangıç Seviyesi

@@ -15,10 +15,10 @@ Vektörler, matrisler, doğrusal dönüşümler ve vektör uzaylarını inceleye
 - [3Blue1Brown — Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra)
 - [Immersive Linear Algebra](https://immersivemath.com/ila/)
 
-## Core Concepts
+## 📖 Lecture Notes
 
 Lecture note links will be added soon.
-## Recommended Books
+## 📚 Textbooks
 
 
 ### Başlangıç Seviyesi

@@ -15,10 +15,10 @@ title: Galois Theory (Galois Teorisi)
 - [Keith Conrad — Galois Theory Notes](https://kconrad.math.uconn.edu/blurbs/)
 - [MIT 18.702 — Algebra II](https://ocw.mit.edu/courses/18-702-algebra-ii-spring-2011/)
 
-## Core Concepts
+## 📖 Lecture Notes
 
 Lecture note links will be added soon.
-## Recommended Books
+## 📚 Textbooks
 
 
 ### Başlangıç Seviyesi

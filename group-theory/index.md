@@ -15,10 +15,10 @@ Simetriyi matematiksel olarak kodlayan cebirsel yapılar. Kristalografi'den kuan
 - [Group Explorer](https://nathancarter.github.io/group-explorer/)
 - [Keith Conrad — Algebra Notes](https://kconrad.math.uconn.edu/blurbs/)
 
-## Core Concepts
+## 📖 Lecture Notes
 
 Lecture note links will be added soon.
-## Recommended Books
+## 📚 Textbooks
 
 
 ### Başlangıç Seviyesi

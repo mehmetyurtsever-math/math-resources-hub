@@ -15,10 +15,10 @@ Karmaşık sayılar üzerinde tanımlı fonksiyonların analizi. Fizik, mühendi
 - [3Blue1Brown — Visualizing Complex Analysis](https://www.youtube.com/watch?v=5PcpBw5Hbwo)
 - [Visual Complex Analysis — Needham](https://en.wikipedia.org/wiki/Visual_Complex_Analysis)
 
-## Core Concepts
+## 📖 Lecture Notes
 
 Lecture note links will be added soon.
-## Recommended Books
+## 📚 Textbooks
 
 
 ### Başlangıç Seviyesi

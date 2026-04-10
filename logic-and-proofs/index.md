@@ -15,10 +15,10 @@ Matematiksel düşüncenin temeli: önerme mantığı, küme teorisi, ispat tekn
 - [MIT 6.042J — Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
 - [Proof Wiki](https://proofwiki.org/)
 
-## Core Concepts
+## 📖 Lecture Notes
 
 Lecture note links will be added soon.
-## Recommended Books
+## 📚 Textbooks
 
 
 ### Başlangıç Seviyesi
