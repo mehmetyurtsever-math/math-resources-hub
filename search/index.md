@@ -42,24 +42,18 @@ permalink: /search/
     var normQuery = normalize(query);
     var normIdx = normContent.indexOf(normQuery);
     if (normIdx === -1) return escapeHtml(content.substring(0, 160)) + '&hellip;';
-    // Map normalized index to original content index.
-    // Combining characters (length 0 after normalization) are skipped so we
-    // always land on a visible base character, handling both precomposed and
-    // NFD-decomposed source text correctly.
-    var normPos = 0;
-    var origStart = 0;
+    // Pre-build a map from normalized positions to original positions.
+    // We iterate original chars once, calling normalize per char only here.
+    var posMap = []; // posMap[normPos] = origPos
+    var nPos = 0;
     for (var i = 0; i < content.length; i++) {
       var nc = normalize(content[i]);
-      if (normPos >= normIdx && nc.length > 0) { origStart = i; break; }
-      normPos += nc.length;
+      if (nc.length > 0) { posMap[nPos] = i; nPos += nc.length; }
     }
-    // Advance through original content until normQuery.length normalized chars consumed.
-    var origEnd = origStart;
-    var charsLeft = normQuery.length;
-    for (var j = origStart; j < content.length && charsLeft > 0; j++) {
-      charsLeft -= normalize(content[j]).length;
-      origEnd = j + 1;
-    }
+    posMap[nPos] = content.length; // sentinel for end-of-match lookup
+    var origStart = posMap[normIdx] !== undefined ? posMap[normIdx] : normIdx;
+    var matchEnd = normIdx + normQuery.length;
+    var origEnd = posMap[matchEnd] !== undefined ? posMap[matchEnd] : Math.min(matchEnd, content.length);
     var start = Math.max(0, origStart - 60);
     var end = Math.min(content.length, origEnd + 100);
     var snippet = (start > 0 ? '&hellip;' : '') +
