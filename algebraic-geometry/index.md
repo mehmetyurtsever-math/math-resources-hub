@@ -9,7 +9,13 @@ The branch of mathematics that studies geometric objects defined by polynomial e
 
 ---
 
-## 📖 Lecture Notes
+## Quick Overview
+
+- [FOAG — Ravi Vakil's Notes](https://math.stanford.edu/~vakil/216blog/FOAGnov1817public.pdf)
+- [Stacks Project](https://stacks.math.columbia.edu/)
+- [MIT 18.725 — Algebraic Geometry](https://ocw.mit.edu/courses/18-725-algebraic-geometry-fall-2015/)
+
+## Core Concepts
 
 ### Classical Algebraic Geometry
 
@@ -47,9 +53,7 @@ The branch of mathematics that studies geometric objects defined by polynomial e
 - **Serre Duality:** $H^i(X, \mathcal{F}) \cong H^{n-i}(X, \omega_X \otimes \mathcal{F}^\vee)^\vee$ for smooth projective $X$.
 - **Riemann-Roch Theorem:** $\chi(\mathcal{L}) = \deg(\mathcal{L}) + 1 - g$ for a line bundle on a curve of genus $g$.
 
----
-
-## 📚 Recommended Books
+## Recommended Books
 
 ### Introductory
 
@@ -85,9 +89,7 @@ The branch of mathematics that studies geometric objects defined by polynomial e
   - Modern, freely available notes; highly recommended.
   - Difficulty: ★★★★☆ | Language: English
 
----
-
-## 🌐 Web Resources
+## Web Resources
 
 - [FOAG — Ravi Vakil's Notes](https://math.stanford.edu/~vakil/216blog/FOAGnov1817public.pdf) — Comprehensive free textbook
 - [Stacks Project](https://stacks.math.columbia.edu/) — Online reference for algebraic geometry and commutative algebra
@@ -99,9 +101,7 @@ The branch of mathematics that studies geometric objects defined by polynomial e
 - [Hartshorne Exercises](https://math.stackexchange.com/questions/tagged/algebraic-geometry) — Community solutions on Math StackExchange
 - [Algebraic Geometry — MathOverflow](https://mathoverflow.net/questions/tagged/algebraic-geometry) — Research-level discussions
 
----
-
-## 🎬 Video Lectures
+## Video Lectures
 
 ### University Courses
 

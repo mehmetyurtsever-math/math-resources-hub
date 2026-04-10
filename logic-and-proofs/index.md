@@ -9,7 +9,13 @@ Matematiksel düşüncenin temeli: önerme mantığı, küme teorisi, ispat tekn
 
 ---
 
-## 📖 Ders Notları
+## Quick Overview
+
+- [Book of Proof — Richard Hammack (Ücretsiz PDF)](https://www.people.vcu.edu/~rhammack/BookOfProof/)
+- [MIT 6.042J — Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
+- [Proof Wiki](https://proofwiki.org/)
+
+## Core Concepts
 
 
 ### Temel Kavramlar
@@ -48,7 +54,7 @@ Matematiksel düşüncenin temeli: önerme mantığı, küme teorisi, ispat tekn
 - **Schroeder-Bernstein:** $|A| \leq |B|$ ve $|B| \leq |A| \Rightarrow |A| = |B|$.
 
 
-## 📚 Kitap Önerileri
+## Recommended Books
 
 
 ### Başlangıç Seviyesi
@@ -80,7 +86,7 @@ Matematiksel düşüncenin temeli: önerme mantığı, küme teorisi, ispat tekn
   - Zorluk: ★★★★★ | Dil: İngilizce
 
 
-## 🌐 Web Siteleri ve Kaynaklar
+## Web Resources
 
 
 ### Ücretsiz Kaynaklar
@@ -95,7 +101,7 @@ Matematiksel düşüncenin temeli: önerme mantığı, küme teorisi, ispat tekn
 - [Math StackExchange — Proof Writing](https://math.stackexchange.com/questions/tagged/proof-writing)
 
 
-## 🎬 Video Dersler
+## Video Lectures
 
 
 ### Üniversite Dersleri

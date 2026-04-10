@@ -9,7 +9,13 @@ Değişmeli halkalar, idealler ve modüller üzerine kurulu cebir dalı. Cebirse
 
 ---
 
-## 📖 Ders Notları
+## Quick Overview
+
+- [Atiyah & MacDonald — Introduction to Commutative Algebra](https://en.wikipedia.org/wiki/Introduction_to_Commutative_Algebra)
+- [James Milne — Commutative Algebra (PDF)](https://www.jmilne.org/math/CourseNotes/CA.pdf)
+- [Stacks Project](https://stacks.math.columbia.edu/)
+
+## Core Concepts
 
 
 ### Temel Kavramlar
@@ -51,7 +57,7 @@ Değişmeli halkalar, idealler ve modüller üzerine kurulu cebir dalı. Cebirse
 - **Tamamlama:** $\mathfrak{m}$-adik topoloji, $\hat{R}$ tamamlaması.
 
 
-## 📚 Kitap Önerileri
+## Recommended Books
 
 
 ### Başlangıç Seviyesi
@@ -75,7 +81,7 @@ Değişmeli halkalar, idealler ve modüller üzerine kurulu cebir dalı. Cebirse
   - Zorluk: ★★★★★ | Dil: İngilizce
 
 
-## 🌐 Web Siteleri ve Kaynaklar
+## Web Resources
 
 
 ### Ücretsiz Kaynaklar
@@ -90,7 +96,7 @@ Değişmeli halkalar, idealler ve modüller üzerine kurulu cebir dalı. Cebirse
 - [MIT OCW — Commutative Algebra](https://ocw.mit.edu/courses/18-705-commutative-algebra-fall-2008/)
 
 
-## 🎬 Video Dersler
+## Video Lectures
 
 
 ### Üniversite Dersleri

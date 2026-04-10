@@ -9,7 +9,13 @@ Karmaşık sayılar üzerinde tanımlı fonksiyonların analizi. Fizik, mühendi
 
 ---
 
-## 📖 Ders Notları
+## Quick Overview
+
+- [MIT 18.04 — Complex Variables](https://ocw.mit.edu/courses/18-04-complex-variables-with-applications-spring-2018/)
+- [3Blue1Brown — Visualizing Complex Analysis](https://www.youtube.com/watch?v=5PcpBw5Hbwo)
+- [Visual Complex Analysis — Needham](https://en.wikipedia.org/wiki/Visual_Complex_Analysis)
+
+## Core Concepts
 
 
 ### Temel Kavramlar
@@ -47,7 +53,7 @@ Karmaşık sayılar üzerinde tanımlı fonksiyonların analizi. Fizik, mühendi
 - **Riemann Haritalama Teoremi:** Her basit bağlantılı bölge birim diske konform eşdeğerdir.
 
 
-## 📚 Kitap Önerileri
+## Recommended Books
 
 
 ### Başlangıç Seviyesi
@@ -75,7 +81,7 @@ Karmaşık sayılar üzerinde tanımlı fonksiyonların analizi. Fizik, mühendi
   - Zorluk: ★★★★★ | Dil: İngilizce
 
 
-## 🌐 Web Siteleri ve Kaynaklar
+## Web Resources
 
 
 ### İnteraktif Kaynaklar
@@ -90,7 +96,7 @@ Karmaşık sayılar üzerinde tanımlı fonksiyonların analizi. Fizik, mühendi
 - [Complex Analysis — Khan Academy](https://www.khanacademy.org/) — Temel konular
 
 
-## 🎬 Video Dersler
+## Video Lectures
 
 
 ### Üniversite Dersleri

@@ -9,7 +9,13 @@ Vektörler, matrisler, doğrusal dönüşümler ve vektör uzaylarını inceleye
 
 ---
 
-## 📖 Ders Notları
+## Quick Overview
+
+- [MIT 18.06 — Linear Algebra (Gilbert Strang)](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+- [3Blue1Brown — Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra)
+- [Immersive Linear Algebra](https://immersivemath.com/ila/)
+
+## Core Concepts
 
 
 ### Temel Kavramlar
@@ -54,7 +60,7 @@ Vektörler, matrisler, doğrusal dönüşümler ve vektör uzaylarını inceleye
 - **Pozitif Tanımlı Matrisler:** $x^TAx > 0,\ \forall x \neq 0$.
 
 
-## 📚 Kitap Önerileri
+## Recommended Books
 
 
 ### Başlangıç Seviyesi
@@ -91,7 +97,7 @@ Vektörler, matrisler, doğrusal dönüşümler ve vektör uzaylarını inceleye
 - **Mustafa Balcı** — *Lineer Cebir* — Temel kavramlar, alıştırmalar.
 
 
-## 🌐 Web Siteleri ve Kaynaklar
+## Web Resources
 
 
 ### İnteraktif Kaynaklar
@@ -113,7 +119,7 @@ Vektörler, matrisler, doğrusal dönüşümler ve vektör uzaylarını inceleye
 - [Linear Algebra Done Right — Exercises](https://linear.axler.net/) — Axler'ın problem setleri
 
 
-## 🎬 Video Dersler
+## Video Lectures
 
 
 ### Üniversite Dersleri

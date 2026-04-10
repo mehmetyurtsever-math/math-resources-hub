@@ -9,7 +9,13 @@ Gruplar, halkalar ve cisimler gibi cebirsel yapıları aksiyomatik biçimde ince
 
 ---
 
-## 📖 Ders Notları
+## Quick Overview
+
+- [MIT 18.703 — Modern Algebra](https://ocw.mit.edu/courses/18-703-modern-algebra-spring-2013/)
+- [Keith Conrad's Expository Papers](https://kconrad.math.uconn.edu/blurbs/)
+- [Group Explorer](https://nathancarter.github.io/group-explorer/)
+
+## Core Concepts
 
 
 ### Temel Kavramlar
@@ -47,7 +53,7 @@ Gruplar, halkalar ve cisimler gibi cebirsel yapıları aksiyomatik biçimde ince
 - Alıştırma: $\mathbb{Z}[x]$'in $\mathbb{Z}$ üzerinde Öklid bölgesi olmadığını gösterin.
 
 
-## 📚 Kitap Önerileri
+## Recommended Books
 
 
 ### Başlangıç Seviyesi
@@ -75,7 +81,7 @@ Gruplar, halkalar ve cisimler gibi cebirsel yapıları aksiyomatik biçimde ince
   - Zorluk: ★★★★☆ | Dil: İngilizce
 
 
-## 🌐 Web Siteleri ve Kaynaklar
+## Web Resources
 
 
 ### İnteraktif Kaynaklar
@@ -90,7 +96,7 @@ Gruplar, halkalar ve cisimler gibi cebirsel yapıları aksiyomatik biçimde ince
 - [Putnam Competition Problems](https://kskedlaya.org/putnam-archive/) — Cebir bölümü
 
 
-## 🎬 Video Dersler
+## Video Lectures
 
 
 ### Üniversite Dersleri
