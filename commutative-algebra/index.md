@@ -9,9 +9,8 @@ Değişmeli halkalar, idealler ve modüller üzerine kurulu cebir dalı. Cebirse
 
 ---
 
-<details>
-<summary>📖 Ders Notları</summary>
-<div class="details-body">
+## 📖 Ders Notları
+
 
 ### Temel Kavramlar
 
@@ -51,12 +50,9 @@ Değişmeli halkalar, idealler ve modüller üzerine kurulu cebir dalı. Cebirse
 - **Boyut Teorisi:** Krull boyutu, zincir konuma teoremi.
 - **Tamamlama:** $\mathfrak{m}$-adik topoloji, $\hat{R}$ tamamlaması.
 
-</div>
-</details>
 
-<details>
-<summary>📚 Kitap Önerileri</summary>
-<div class="details-body">
+## 📚 Kitap Önerileri
+
 
 ### Başlangıç Seviyesi
 
@@ -78,12 +74,9 @@ Değişmeli halkalar, idealler ve modüller üzerine kurulu cebir dalı. Cebirse
   - Geometrik bağlantı güçlü, modern yaklaşım.
   - Zorluk: ★★★★★ | Dil: İngilizce
 
-</div>
-</details>
 
-<details>
-<summary>🌐 Web Siteleri ve Kaynaklar</summary>
-<div class="details-body">
+## 🌐 Web Siteleri ve Kaynaklar
+
 
 ### Ücretsiz Kaynaklar
 
@@ -96,12 +89,9 @@ Değişmeli halkalar, idealler ve modüller üzerine kurulu cebir dalı. Cebirse
 - [Atiyah-MacDonald Exercises Solutions](https://math.stackexchange.com/questions/tagged/commutative-algebra)
 - [MIT OCW — Commutative Algebra](https://ocw.mit.edu/courses/18-705-commutative-algebra-fall-2008/)
 
-</div>
-</details>
 
-<details>
-<summary>🎬 Video Dersler</summary>
-<div class="details-body">
+## 🎬 Video Dersler
+
 
 ### Üniversite Dersleri
 
@@ -113,8 +103,6 @@ Değişmeli halkalar, idealler ve modüller üzerine kurulu cebir dalı. Cebirse
 - [Richard Borcherds — Commutative Algebra](https://www.youtube.com/@RichardBorcherds) — Kapsamlı değişmeli cebir dersleri
 - [The Bright Side of Mathematics](https://www.youtube.com/@brightsideofmaths) — Halka ve modül teorisi
 
-</div>
-</details>
 
 ---
 

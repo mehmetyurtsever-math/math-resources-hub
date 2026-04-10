@@ -9,9 +9,8 @@ Karmaşık sayılar üzerinde tanımlı fonksiyonların analizi. Fizik, mühendi
 
 ---
 
-<details>
-<summary>📖 Ders Notları</summary>
-<div class="details-body">
+## 📖 Ders Notları
+
 
 ### Temel Kavramlar
 
@@ -47,12 +46,9 @@ Karmaşık sayılar üzerinde tanımlı fonksiyonların analizi. Fizik, mühendi
 - **Rouché Teoremi:** İki fonksiyon arasındaki sıfır sayıları karşılaştırması.
 - **Riemann Haritalama Teoremi:** Her basit bağlantılı bölge birim diske konform eşdeğerdir.
 
-</div>
-</details>
 
-<details>
-<summary>📚 Kitap Önerileri</summary>
-<div class="details-body">
+## 📚 Kitap Önerileri
+
 
 ### Başlangıç Seviyesi
 
@@ -78,12 +74,9 @@ Karmaşık sayılar üzerinde tanımlı fonksiyonların analizi. Fizik, mühendi
   - Gerçel ve karmaşık analizin birleşik sunumu.
   - Zorluk: ★★★★★ | Dil: İngilizce
 
-</div>
-</details>
 
-<details>
-<summary>🌐 Web Siteleri ve Kaynaklar</summary>
-<div class="details-body">
+## 🌐 Web Siteleri ve Kaynaklar
+
 
 ### İnteraktif Kaynaklar
 
@@ -96,12 +89,9 @@ Karmaşık sayılar üzerinde tanımlı fonksiyonların analizi. Fizik, mühendi
 - [MIT 18.04 — Complex Variables](https://ocw.mit.edu/courses/18-04-complex-variables-with-applications-spring-2018/)
 - [Complex Analysis — Khan Academy](https://www.khanacademy.org/) — Temel konular
 
-</div>
-</details>
 
-<details>
-<summary>🎬 Video Dersler</summary>
-<div class="details-body">
+## 🎬 Video Dersler
+
 
 ### Üniversite Dersleri
 
@@ -114,8 +104,6 @@ Karmaşık sayılar üzerinde tanımlı fonksiyonların analizi. Fizik, mühendi
 - [The Bright Side of Mathematics — Complex Analysis](https://www.youtube.com/@brightsideofmaths) — Karmaşık analiz serisi
 - [Dr. Peyam — Complex Analysis](https://www.youtube.com/@drpeyam) — Karmaşık analiz problemleri
 
-</div>
-</details>
 
 ---
 

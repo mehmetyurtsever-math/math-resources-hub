@@ -9,9 +9,8 @@ title: Galois Theory (Galois Teorisi)
 
 ---
 
-<details>
-<summary>📖 Ders Notları</summary>
-<div class="details-body">
+## 📖 Ders Notları
+
 
 ### Temel Kavramlar
 
@@ -44,12 +43,9 @@ title: Galois Theory (Galois Teorisi)
 - $\text{Gal}(\mathbb{Q}(\zeta_n)/\mathbb{Q}) \cong (\mathbb{Z}/n\mathbb{Z})^*$ — devirli cisim uzantıları.
 - $x^4 - 2$ polinomunun ayrışım cismi ve Galois grubu $D_4$.
 
-</div>
-</details>
 
-<details>
-<summary>📚 Kitap Önerileri</summary>
-<div class="details-body">
+## 📚 Kitap Önerileri
+
 
 ### Başlangıç Seviyesi
 
@@ -75,12 +71,9 @@ title: Galois Theory (Galois Teorisi)
   - [math.jmilne.org](https://www.jmilne.org/math/) üzerinden ücretsiz.
   - Zorluk: ★★★★☆ | Dil: İngilizce
 
-</div>
-</details>
 
-<details>
-<summary>🌐 Web Siteleri ve Kaynaklar</summary>
-<div class="details-body">
+## 🌐 Web Siteleri ve Kaynaklar
+
 
 ### Ücretsiz Kaynaklar
 
@@ -93,12 +86,9 @@ title: Galois Theory (Galois Teorisi)
 - [Algebra Qualifying Exams — Field Theory](https://math.stackexchange.com/questions/tagged/galois-theory)
 - [MIT 18.702 — Problem Sets](https://ocw.mit.edu/courses/18-702-algebra-ii-spring-2011/pages/assignments/)
 
-</div>
-</details>
 
-<details>
-<summary>🎬 Video Dersler</summary>
-<div class="details-body">
+## 🎬 Video Dersler
+
 
 ### Üniversite Dersleri
 
@@ -111,8 +101,6 @@ title: Galois Theory (Galois Teorisi)
 - [Mathador](https://www.youtube.com/results?search_query=galois+theory) — Türkçe ve İngilizce kaynaklar
 - [Socratica](https://www.youtube.com/@Socratica) — Cisim teorisi temelleri
 
-</div>
-</details>
 
 ---
 

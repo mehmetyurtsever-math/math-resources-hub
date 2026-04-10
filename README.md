@@ -1,6 +1,6 @@
 # Math Resources Hub
 
-Lisans öğrencileri için kapsamlı matematik kaynakları merkezi. Her konu **accordion (açılır/kapanır)** bölümlerle düzenlenmiştir.
+Lisans öğrencileri için kapsamlı matematik kaynakları merkezi. Her konu **doğrudan görünür başlık + liste** düzeniyle sunulmuştur.
 
 🌐 **GitHub Pages Site:** https://mehmetyurtsever-math.github.io/math-resources-hub/
 
@@ -26,7 +26,7 @@ math-resources-hub/
 ├── _layouts/
 │   └── default.html         # Navigasyon + footer içeren şablon
 ├── assets/
-│   └── style.css            # Accordion + responsive CSS
+│   └── style.css            # Tema ve responsive CSS
 ├── index.md                 # Ana sayfa (9 konu kartı)
 ├── analysis/index.md        # Analiz sayfası (detaylı içerik)
 ├── linear-algebra/index.md  # Doğrusal cebir sayfası
@@ -39,16 +39,16 @@ math-resources-hub/
 └── differential-geometry/index.md
 ```
 
-## Accordion Yapısı
+## Bölüm Yapısı
 
-Her konu sayfasında dört açılır/kapanır bölüm bulunmaktadır:
+Her konu sayfasında dört görünür bölüm bulunmaktadır:
 
 - **📖 Ders Notları** — Tanımlar, teoremler, ispatlar, örnekler
 - **📚 Kitap Önerileri** — Başlangıç ve ileri seviye kitaplar
 - **🌐 Web Siteleri ve Kaynaklar** — Online araçlar ve problem setleri
 - **🎬 Video Dersler** — Üniversite dersleri ve YouTube kanalları
 
-Accordion yapısı HTML5 `<details>` ve `<summary>` etiketleri kullanılarak oluşturulmuştur; JavaScript gerektirmez.
+Bu bölümler doğrudan başlıklar altında listelenir; içerik gizlenmez.
 
 ## Katkıda Bulunma
 
@@ -59,15 +59,10 @@ Yeni içerik veya konu eklemek için:
 3. Şu yapıyı koruyun:
 
 ```html
-<details>
-<summary>📖 Ders Notları</summary>
-<div class="details-body">
+## 📖 Ders Notları
 
 ### Başlık
 - İçerik
-
-</div>
-</details>
 ```
 
 4. Pull Request açın

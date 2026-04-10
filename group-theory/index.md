@@ -9,9 +9,8 @@ Simetriyi matematiksel olarak kodlayan cebirsel yapılar. Kristalografi'den kuan
 
 ---
 
-<details>
-<summary>📖 Ders Notları</summary>
-<div class="details-body">
+## 📖 Ders Notları
+
 
 ### Temel Kavramlar
 
@@ -44,12 +43,9 @@ Simetriyi matematiksel olarak kodlayan cebirsel yapılar. Kristalografi'den kuan
 - Alıştırma: Mertebesi 6 olan grupların $\mathbb{Z}_6$ veya $S_3$'e izomorf olduğunu kanıtlayın.
 - Alıştırma: Mertebesi 15 olan her grubun devirli olduğunu gösterin.
 
-</div>
-</details>
 
-<details>
-<summary>📚 Kitap Önerileri</summary>
-<div class="details-body">
+## 📚 Kitap Önerileri
+
 
 ### Başlangıç Seviyesi
 
@@ -75,12 +71,9 @@ Simetriyi matematiksel olarak kodlayan cebirsel yapılar. Kristalografi'den kuan
   - Grup temsil teorisi, karakter teorisi.
   - Zorluk: ★★★★☆ | Dil: İngilizce
 
-</div>
-</details>
 
-<details>
-<summary>🌐 Web Siteleri ve Kaynaklar</summary>
-<div class="details-body">
+## 🌐 Web Siteleri ve Kaynaklar
+
 
 ### İnteraktif Kaynaklar
 
@@ -93,12 +86,9 @@ Simetriyi matematiksel olarak kodlayan cebirsel yapılar. Kristalografi'den kuan
 - [Qualifying Exam Problems — Groups](https://math.stackexchange.com/questions/tagged/group-theory) — StackExchange arşivi
 - [MIT OCW — Group Theory Problems](https://ocw.mit.edu/courses/18-703-modern-algebra-spring-2013/pages/assignments/)
 
-</div>
-</details>
 
-<details>
-<summary>🎬 Video Dersler</summary>
-<div class="details-body">
+## 🎬 Video Dersler
+
 
 ### Üniversite Dersleri
 
@@ -111,8 +101,6 @@ Simetriyi matematiksel olarak kodlayan cebirsel yapılar. Kristalografi'den kuan
 - [Richard Borcherds — Group Theory](https://www.youtube.com/@RichardBorcherds) — İleri grup teorisi
 - [Visual Group Theory — MAST 613](https://www.youtube.com/playlist?list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv) — Görsel yaklaşım
 
-</div>
-</details>
 
 ---
 
