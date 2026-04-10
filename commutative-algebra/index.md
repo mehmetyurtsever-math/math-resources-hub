@@ -17,46 +17,7 @@ Değişmeli halkalar, idealler ve modüller üzerine kurulu cebir dalı. Cebirse
 
 ## Core Concepts
 
-
-### Temel Kavramlar
-
-#### Değişmeli Halkalar
-- **Tanım:** Değişmeli, birimli halka $(R, +, \cdot)$.
-- **Örnekler:** $\mathbb{Z}$, $\mathbb{Q}[x]$, $k[x_1,\ldots,x_n]$, $\mathbb{Z}[\sqrt{-5}]$.
-- **Bütünlük Bölgesi:** $ab = 0 \Rightarrow a = 0$ veya $b = 0$.
-- **Kesir Cismi:** Bütünlük bölgesinden elde edilen en küçük cisim.
-
-#### İdealler
-- **İdeal:** $I \subseteq R$, toplama altında alt grup + $rI \subseteq I\ \forall r \in R$.
-- **Asal İdeal:** $I$ asal $\iff R/I$ bütünlük bölgesi.
-- **Maksimal İdeal:** $I$ maksimal $\iff R/I$ cisim.
-- **Radikal İdeal:** $\text{rad}(I) = \{r \in R \mid r^n \in I,\ \exists n\}$.
-- **Nilradikal:** $\text{nil}(R) = \text{rad}((0))$.
-
-#### Noetherian Halkalar
-- **Noetherian Halka:** Her ideal sonlu üretilir (ascending chain condition).
-- **Hilbert'in Baz Teoremi:** $R$ Noetherian $\Rightarrow R[x]$ Noetherian.
-- **Örnekler:** $\mathbb{Z}$, her cisim, her sonlu üretilmiş $k$-cebiri.
-
-#### Lokalizasyon
-- **Lokalizasyon $S^{-1}R$:** $R$'nin $S$ çarpımsal kümesine göre lokalizasyonu.
-- **Lokal Halka:** Tam olarak bir maksimal ideali olan halka.
-- **Asal İdeallerde Lokalizasyon:** $R_\mathfrak{p} = (R \setminus \mathfrak{p})^{-1}R$.
-
-#### Modüller
-- **Modül:** Halka üzerinde vektör uzayı genellemesi.
-- **Serbest Modül:** Baz vektörleri olan modül ($\cong R^n$).
-- **Tam Dizi:** $0 \to A \to B \to C \to 0$ — cebirsel topoloji bağlantısı.
-- **Nakayama Lemması:** Lokal halkalarda modüllerin üretilmesi.
-
-### İleri Konular
-
-- **Dedekind Bölgeleri:** Her ideal asal ideallerin çarpımına ayrışır.
-- **Düzlemsel Eğriler:** $k[x,y]/\langle f(x,y) \rangle$ halkaları.
-- **Boyut Teorisi:** Krull boyutu, zincir konuma teoremi.
-- **Tamamlama:** $\mathfrak{m}$-adik topoloji, $\hat{R}$ tamamlaması.
-
-
+Lecture note links will be added soon.
 ## Recommended Books
 
 

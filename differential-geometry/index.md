@@ -17,45 +17,7 @@ Calculus araçlarıyla eğriler, yüzeyler ve manifoldların geometrisini incele
 
 ## Core Concepts
 
-
-### Temel Kavramlar
-
-#### Eğriler
-- **Parametrik Eğri:** $\alpha: I \to \mathbb{R}^3$, $\alpha(t) = (x(t), y(t), z(t))$.
-- **Birim Hız Eğrisi:** $|\alpha'(t)| = 1$ — yay uzunluğuyla parametreleme.
-- **Eğrilik:** $\kappa(t) = |\alpha''(t)|$ — eğrinin nasıl büküldüğü.
-- **Burulma:** $\tau(t)$ — eğrinin uzay içinde nasıl döndüğü.
-- **Frenet-Serret Çerçevesi:** $\{T, N, B\}$ — teğet, normal, binormal.
-- **Frenet-Serret Formülleri:** $T' = \kappa N$, $N' = -\kappa T + \tau B$, $B' = -\tau N$.
-
-#### Yüzeyler
-- **Düzenli Yüzey:** $\sigma: U \subseteq \mathbb{R}^2 \to \mathbb{R}^3$, $\text{rank}\, d\sigma_p = 2$.
-- **Birinci Temel Form:** $I = E\,du^2 + 2F\,du\,dv + G\,dv^2$ — yüzey metriği.
-- **Alan Hesabı:** $A = \iint_U \sqrt{EG - F^2}\,du\,dv$.
-- **İkinci Temel Form:** $II = L\,du^2 + 2M\,du\,dv + N\,dv^2$ — eğriliği ölçer.
-- **Ortalama Eğrilik:** $H = \dfrac{EN - 2FM + GL}{2(EG-F^2)}$.
-- **Gaussian Eğrilik:** $K = \dfrac{LN - M^2}{EG - F^2}$.
-
-#### Gauss-Bonnet Teoremi
-- **Gauss'un Egregium Teoremi:** $K$ içsel büyüklüktür — yüzeyden bağımsız hesaplanır.
-- **Gauss-Bonnet:** $\iint_M K\,dA + \oint_{\partial M} \kappa_g\,ds = 2\pi\chi(M)$.
-- **Euler Karakteristiği:** $\chi(M) = V - E + F$ (köşe — kenar — yüz).
-
-#### Manifoldlar
-- **Pürüzsüz Manifold:** Yerel olarak $\mathbb{R}^n$'e benzeyen küme, açık örtü ile atlas.
-- **Teğet Uzayı $T_pM$:** $p$ noktasındaki türevlenebilir yolların eşdeğerlik sınıfları.
-- **Vektör Alanları ve Akışlar.**
-- **Diferansiyel Formlar:** $1$-form, $2$-form, dış türev $d$.
-- **Stokes Teoremi:** $\int_M d\omega = \int_{\partial M} \omega$.
-
-### Bağlantı ve Eğrilik
-
-- **Bağlantı (Connection):** Vektör alanlarının kovaryant türevi.
-- **Riemann Metriği:** Her teğet uzayında iç çarpım.
-- **Riemann Eğrilik Tensörü:** $R(X,Y)Z = \nabla_X\nabla_Y Z - \nabla_Y\nabla_X Z - \nabla_{[X,Y]}Z$.
-- **Geodezikler:** Eğriliği sıfır olan eğriler — yüzeyde "düz çizgi" genellemesi.
-
-
+Lecture note links will be added soon.
 ## Recommended Books
 
 

@@ -19,52 +19,7 @@ Bu sayfa Analysis konusundaki temel kaynakları tek yerde toplar.
 
 ## Core Concepts
 
-
-### Temel Kavramlar
-
-#### Sayı Sistemleri ve Tamamlılık
-- **Gerçel Sayılar (ℝ):** Tam sayılar, rasyonel ve irrasyonel sayıların birleşimi. Tamamlılık aksiyomu: Her üstten sınırlı boş olmayan alt kümenin bir üstten sınırı (supremum) vardır.
-- **Supremum ve İnfimum:** $\sup A$ ve $\inf A$ tanımları, varlık ve teklik.
-- **Arşimet Özelliği:** $\forall x \in \mathbb{R},\ \exists n \in \mathbb{N}$ öyle ki $n > x$.
-
-#### Diziler ve Limitler
-- **Dizi Tanımı:** $a: \mathbb{N} \to \mathbb{R}$ fonksiyonu; $(a_n)_{n=1}^{\infty}$.
-- **Limit:** $\lim_{n \to \infty} a_n = L \iff \forall \varepsilon > 0,\ \exists N \in \mathbb{N}:\ n \geq N \Rightarrow |a_n - L| < \varepsilon$.
-- **Cauchy Dizisi:** $(a_n)$ Cauchy $\iff \forall \varepsilon > 0,\ \exists N:\ m,n \geq N \Rightarrow |a_m - a_n| < \varepsilon$.
-- **Teorem:** ℝ'de her Cauchy dizisi yakınsar.
-
-#### Süreklilik
-- **Nokta Süreklilik:** $f$, $c$'de sürekli $\iff \lim_{x \to c} f(x) = f(c)$.
-- **$\varepsilon$–$\delta$ Tanımı:** $\forall \varepsilon > 0,\ \exists \delta > 0:\ |x-c| < \delta \Rightarrow |f(x)-f(c)| < \varepsilon$.
-- **Düzgün Süreklilik:** $\delta$, $c$'den bağımsız seçilebilir.
-- **Teorem (Ara Değer):** $f:[a,b]\to\mathbb{R}$ sürekli ve $f(a) < 0 < f(b)$ ise $\exists c \in (a,b):\ f(c) = 0$.
-
-#### Türev
-- **Tanım:** $f'(c) = \lim_{h \to 0} \dfrac{f(c+h)-f(c)}{h}$.
-- **Türev Kuralları:** Toplam, çarpım, bölüm, zincir kuralları.
-- **Ortalama Değer Teoremi:** $f:[a,b]\to\mathbb{R}$ sürekli, $(a,b)$'de türevlenebilir ise $\exists c \in (a,b):\ f'(c) = \dfrac{f(b)-f(a)}{b-a}$.
-- **L'Hôpital Kuralı:** $\frac{0}{0}$ ya da $\frac{\infty}{\infty}$ belirsizliklerini çözmek için.
-
-#### Riemann İntegrali
-- **Tanım:** Alt ve üst Riemann toplamları, $\underline{S}(f,P)$ ve $\overline{S}(f,P)$.
-- **Riemann İntegrallenebilirlik:** $\inf_P \overline{S}(f,P) = \sup_P \underline{S}(f,P)$.
-- **Newton-Leibniz Teoremi:** $F'(x) = f(x)$ ise $\int_a^b f(x)\,dx = F(b) - F(a)$.
-
-### Metrik Uzaylar
-
-- **Metrik Uzay:** $(X, d)$ — $d: X \times X \to [0,\infty)$ metrik aksiyomlarını sağlar.
-- **Açık ve Kapalı Kümeler**, **İç Nokta**, **Birikim Noktası**.
-- **Tamlık:** Her Cauchy dizisinin yakınsadığı metrik uzaylar.
-- **Kompaktlık:** Her açık örtünün sonlu bir alt örtüsü var ise kompakttır.
-- **Teorem (Heine-Borel):** $\mathbb{R}^n$'de kompaktlık $\iff$ kapalılık ve sınırlılık.
-
-### İspatlar
-
-- **Squeeze Theorem:** $a_n \leq b_n \leq c_n$ ve $a_n, c_n \to L$ ise $b_n \to L$.
-- **Bolzano-Weierstrass:** Her sınırlı dizi yakınsak bir alt dizi içerir.
-- **Taylor Serisi:** $f(x) = \sum_{n=0}^{\infty} \dfrac{f^{(n)}(a)}{n!}(x-a)^n$ — yakınsaklık koşulları.
-
-
+Lecture note links will be added soon.
 ## Recommended Books
 
 

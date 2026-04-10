@@ -17,39 +17,7 @@ Simetriyi matematiksel olarak kodlayan cebirsel yapılar. Kristalografi'den kuan
 
 ## Core Concepts
 
-
-### Temel Kavramlar
-
-#### Gruplar ve Simetri
-- **Simetri Grubu:** Bir nesnenin simetri dönüşümlerinin oluşturduğu grup.
-- **Dihedral Grup $D_n$:** Düzgün $n$-genin simetrileri; $2n$ eleman.
-- **Simetrik Grup $S_n$:** $n$ elemanın tüm permütasyonları; $|S_n| = n!$.
-- **Devirli Gruplar:** Her $g \in G$ için $\langle g \rangle$ alt grubu; $\mathbb{Z}_n \cong \mathbb{Z}/n\mathbb{Z}$.
-
-#### Alt Gruplar ve Bölüm Grupları
-- **Lagrange Teoremi:** $H \leq G$ ise $|H| \mid |G|$.
-- **Koset:** $gH = \{gh \mid h \in H\}$ sol, $Hg$ sağ koset.
-- **Normal Alt Grup:** $gNg^{-1} = N,\ \forall g \in G$.
-- **Bölüm Grubu:** $G/N$ — kosetlerin grubu.
-
-#### Grup Homomorfizmaları
-- **Tanım:** $\phi: G \to H$, $\phi(ab) = \phi(a)\phi(b)$.
-- **Birinci İzomorfizm Teoremi:** $G/\ker\phi \cong \text{im}\,\phi$.
-- **Otomorfizmalar:** $\text{Aut}(G)$ — bir grubun kendisine olan izomorfizmleri.
-
-#### Sylow Teoremleri
-- **Sylow $p$-altgrubu:** Maksimal $p$-kuvveti mertebeli alt grup.
-- **Sylow I:** $|G| = p^a m$ ($p \nmid m$) ise mertebesi $p^a$ olan alt grup vardır.
-- **Sylow II & III:** Sylow alt gruplarının konjugasyon altında geçişkenliği ve sayısı.
-- **Uygulama:** Belirli mertebedeki grupların basit olmadığını kanıtlama.
-
-### Örnekler ve Alıştırmalar
-
-- $\mathbb{Z}_4$, $\mathbb{Z}_2 \times \mathbb{Z}_2$, $S_3$, $D_4$, $Q_8$ (Quaternion grubu) incelemesi.
-- Alıştırma: Mertebesi 6 olan grupların $\mathbb{Z}_6$ veya $S_3$'e izomorf olduğunu kanıtlayın.
-- Alıştırma: Mertebesi 15 olan her grubun devirli olduğunu gösterin.
-
-
+Lecture note links will be added soon.
 ## Recommended Books
 
 

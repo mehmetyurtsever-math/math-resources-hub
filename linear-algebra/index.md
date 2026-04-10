@@ -17,49 +17,7 @@ Vektörler, matrisler, doğrusal dönüşümler ve vektör uzaylarını inceleye
 
 ## Core Concepts
 
-
-### Temel Kavramlar
-
-#### Vektörler ve Vektör Uzayları
-- **Vektör Uzayı:** $(V, +, \cdot)$ — toplama ve skalar çarpma aksiyomlarını sağlayan yapı.
-- **Alt Uzay:** $W \subseteq V$ alt uzay $\iff$ $\mathbf{0} \in W$, toplama ve skalar çarpma altında kapalı.
-- **Doğrusal Bağımsızlık:** $v_1, \ldots, v_n$ bağımsız $\iff$ $c_1 v_1 + \cdots + c_n v_n = 0 \Rightarrow c_i = 0$.
-- **Baz ve Boyut:** $\dim(V)$, bazın eleman sayısı. Sonlu boyutlu uzaylarda her baz aynı sayıda eleman içerir.
-- **Germe (Span):** $\text{span}\{v_1,\ldots,v_k\} = \{c_1 v_1 + \cdots + c_k v_k \mid c_i \in F\}$.
-
-#### Matrisler
-- **Matris İşlemleri:** Toplama, skalar çarpma, matris çarpımı $(AB)_{ij} = \sum_k A_{ik}B_{kj}$.
-- **Determinant:** $\det(A)$, permütasyon formülü, kofaktör açılımı, Cramer kuralı.
-- **İz (Trace):** $\text{tr}(A) = \sum_i A_{ii}$. Özdeğerlerin toplamına eşit.
-- **Matris Tersi:** $A^{-1}$ var $\iff$ $\det(A) \neq 0$.
-
-#### Doğrusal Dönüşümler
-- **Tanım:** $T: V \to W$ doğrusal $\iff$ $T(u+v) = T(u)+T(v)$ ve $T(cv) = cT(v)$.
-- **Çekirdek (Kernel):** $\ker(T) = \{v \in V \mid T(v) = 0\}$ — bir alt uzay.
-- **Görüntü (Image):** $\text{im}(T) = \{T(v) \mid v \in V\}$ — bir alt uzay.
-- **Boyut Teoremi (Rank-Nullity):** $\dim(V) = \dim(\ker T) + \dim(\text{im}\, T)$.
-
-#### Özdeğer ve Özvektörler
-- **Tanım:** $Av = \lambda v$, $v \neq 0$. $\lambda$: özdeğer, $v$: özvektör.
-- **Karakteristik Polinom:** $p(\lambda) = \det(\lambda I - A)$. Özdeğerler bu polinomun kökleridir.
-- **Köşegenleştirme:** $A = PDP^{-1}$ — $D$ köşegen, $P$ özvektörlerden oluşan matris.
-- **Spektral Teorem:** Simetrik (gerçel) veya Hermityan (karmaşık) matrisler ortonormal bir özvektör bazına sahiptir.
-
-#### İç Çarpım Uzayları
-- **İç Çarpım:** $\langle u, v \rangle$ — pozitif tanımlı, simetrik (veya Hermityan), doğrusal.
-- **Norm:** $\|v\| = \sqrt{\langle v, v \rangle}$.
-- **Cauchy-Schwarz Eşitsizliği:** $|\langle u, v \rangle| \leq \|u\| \cdot \|v\|$.
-- **Gram-Schmidt:** Doğrusal bağımsız vektörlerden ortonormal baz elde etme algoritması.
-- **QR Ayrışımı:** $A = QR$; $Q$ ortogonal, $R$ üst üçgen.
-
-### İleri Konular
-
-- **Jordan Kanonik Formu:** Her matrisin üst üçgen kanonik formu.
-- **Tekil Değer Ayrışımı (SVD):** $A = U\Sigma V^T$ — veri sıkıştırma, PCA temeli.
-- **LU Ayrışımı:** Doğrusal sistemlerin etkin çözümü.
-- **Pozitif Tanımlı Matrisler:** $x^TAx > 0,\ \forall x \neq 0$.
-
-
+Lecture note links will be added soon.
 ## Recommended Books
 
 
