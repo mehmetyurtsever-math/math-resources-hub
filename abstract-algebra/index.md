@@ -17,42 +17,7 @@ Gruplar, halkalar ve cisimler gibi cebirsel yapıları aksiyomatik biçimde ince
 
 ## Core Concepts
 
-
-### Temel Kavramlar
-
-#### Gruplar
-- **Grup Aksiyomları:** Kapalılık, birleşme, birim eleman, ters eleman.
-- **Abel (Değişmeli) Gruplar:** $ab = ba$ koşulu.
-- **Alt Gruplar:** Lagrange Teoremi — $|H|$ sayısı $|G|$'yi böler.
-- **Normal Alt Gruplar ve Bölüm Grupları:** $N \trianglelefteq G \Rightarrow G/N$ grup.
-- **Grup Homomorfizmaları:** $\phi: G \to H$, çekirdek ve görüntü.
-- **İzomorfizm Teoremleri:** Birinci, ikinci, üçüncü izomorfizm teoremleri.
-
-#### Halkalar
-- **Halka Tanımı:** Toplama grubu + çarpma yarı-grubu + dağılma yasası.
-- **İdeal:** Sol ideal, sağ ideal, iki-yanlı ideal.
-- **Bölüm Halkası:** $R/I$ — $I$ ideal ise tanımlı.
-- **Özel Halkalar:** Bütünlük bölgesi, asal ideal bölge (PID), özgün çarpanlama bölgesi (UFD).
-
-#### Cisimler
-- **Cisim Tanımı:** Her sıfır olmayan elemanın tersi olan birimli değişmeli halka.
-- **Cisim Uzantıları:** $F \subseteq K$, derece $[K:F]$.
-- **Minimal Polinom:** İrredüktibil polinom ve bölüm cisimleri.
-
-### Teoremler
-
-- **Cayley Teoremi:** Her grup, bir simetri grubunun alt grubuyla izomorfiktir.
-- **Sylow Teoremleri:** Sonlu grupların yapısı hakkında güçlü sonuçlar.
-- **Çin Kalan Teoremi:** $\mathbb{Z}/mn\mathbb{Z} \cong \mathbb{Z}/m\mathbb{Z} \times \mathbb{Z}/n\mathbb{Z}$ ($(m,n)=1$ ise).
-- **Jordan-Hölder:** Sonlu grupların komposisyon serilerinin tekliği.
-
-### Örnekler
-
-- $\mathbb{Z}_n$, $S_n$, $D_n$, $GL_n(F)$, $\mathbb{Z}[x]$, $\mathbb{Q}(\sqrt{2})$ gibi standart örnekler.
-- Alıştırma: $S_3$'ün tüm alt gruplarını bulun.
-- Alıştırma: $\mathbb{Z}[x]$'in $\mathbb{Z}$ üzerinde Öklid bölgesi olmadığını gösterin.
-
-
+Lecture note links will be added soon.
 ## Recommended Books
 
 

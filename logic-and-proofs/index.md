@@ -17,43 +17,7 @@ Matematiksel düşüncenin temeli: önerme mantığı, küme teorisi, ispat tekn
 
 ## Core Concepts
 
-
-### Temel Kavramlar
-
-#### Önerme Mantığı
-- **Önerme:** Doğru ya da yanlış olabilen ifade.
-- **Bağlaçlar:** $\neg$ (değil), $\wedge$ (ve), $\vee$ (veya), $\Rightarrow$ (ise), $\Leftrightarrow$ (ancak ve ancak ise).
-- **Doğruluk Tablosu:** Bileşik önermelerin doğruluk değerleri.
-- **Totoloji ve Çelişki:** Her yorumda doğru / her yorumda yanlış.
-- **Mantıksal Denklik:** $P \equiv Q$ — aynı doğruluk tablosuna sahip.
-
-#### Yüklem Mantığı
-- **Niceleyiciler:** $\forall$ (tüm), $\exists$ (bazı), $\exists!$ (tek).
-- **Değilleme:** $\neg(\forall x, P(x)) \equiv \exists x, \neg P(x)$.
-- **İspat:** Bir önermenin aksiyomlardan mantıksal olarak türetilmesi.
-
-#### İspat Teknikleri
-- **Doğrudan İspat:** $P \Rightarrow Q$'yu doğrudan göster.
-- **Çelişki ile İspat (Reductio ad Absurdum):** $\neg Q$ varsay, çelişki elde et.
-- **Karşıt Önerme:** $\neg Q \Rightarrow \neg P$ ispat et.
-- **Tümevarım (İnduction):** Taban durumu + tümevarım adımı.
-  - Güçlü tümevarım: $k \leq n$ varsay, $n+1$ için göster.
-- **Varoluş İspatı:** Yapıcı (construct) ve yapıcı olmayan (non-constructive).
-- **Örnekle çürütme (Counterexample):** Evrensel önermeyi yanlışla.
-
-#### Küme Teorisi
-- **Küme Aksiyomları (ZFC):** Zermelo-Fraenkel aksiyomları + Seçim Aksiyomu.
-- **İşlemler:** $A \cup B$, $A \cap B$, $A \setminus B$, $A^c$, $\mathcal{P}(A)$.
-- **Fonksiyonlar:** İnjektif (birebir), sürjektif (örten), bijektif.
-- **Kardinalite:** $|A| = |B| \iff \exists$ bijeksiyon $f: A \to B$.
-
-#### Sayılabilirlik
-- **Sayılabilir Kümeler:** $\mathbb{N}, \mathbb{Z}, \mathbb{Q}$ sayılabilir.
-- **Sayılamaz Kümeler:** $\mathbb{R}$, Cantor köşegen argümanı.
-- **Cantor Teoremi:** $|A| < |\mathcal{P}(A)|$ her küme için.
-- **Schroeder-Bernstein:** $|A| \leq |B|$ ve $|B| \leq |A| \Rightarrow |A| = |B|$.
-
-
+Lecture note links will be added soon.
 ## Recommended Books
 
 

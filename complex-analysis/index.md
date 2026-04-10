@@ -17,42 +17,7 @@ Karmaşık sayılar üzerinde tanımlı fonksiyonların analizi. Fizik, mühendi
 
 ## Core Concepts
 
-
-### Temel Kavramlar
-
-#### Karmaşık Sayılar
-- **Tanım:** $\mathbb{C} = \{a + bi \mid a, b \in \mathbb{R},\ i^2 = -1\}$.
-- **Modül ve Argüman:** $|z| = \sqrt{a^2+b^2}$, $\arg(z) = \arctan(b/a)$.
-- **Euler Formülü:** $e^{i\theta} = \cos\theta + i\sin\theta$.
-- **De Moivre:** $(r e^{i\theta})^n = r^n e^{in\theta}$.
-
-#### Karmaşık Fonksiyonlar
-- **Analitik (Holomorphic) Fonksiyon:** Her noktada karmaşık türevi olan fonksiyon.
-- **Cauchy-Riemann Denklemleri:** $u_x = v_y$, $u_y = -v_x$ ($f = u + iv$).
-- **Harmonik Fonksiyonlar:** $\Delta u = u_{xx} + u_{yy} = 0$.
-- **Örnekler:** $e^z$, $\sin z$, $\cos z$, $\log z$, $z^n$.
-
-#### Cauchy Teoremi ve İntegral
-- **Karmaşık İntegral:** $\int_\gamma f(z)\,dz = \int_a^b f(\gamma(t))\gamma'(t)\,dt$.
-- **Cauchy-Goursat Teoremi:** $f$ analitik, $\gamma$ basit kapalı $\Rightarrow \oint_\gamma f(z)\,dz = 0$.
-- **Cauchy İntegral Formülü:** $f(a) = \dfrac{1}{2\pi i}\oint_\gamma \dfrac{f(z)}{z-a}\,dz$.
-- **Cauchy'nin Türev Formülü:** $f^{(n)}(a) = \dfrac{n!}{2\pi i}\oint_\gamma \dfrac{f(z)}{(z-a)^{n+1}}\,dz$.
-
-#### Laurent Serisi ve Rezidüler
-- **Taylor Serisi:** Analitik fonksiyon için $f(z) = \sum_{n=0}^\infty a_n (z-a)^n$.
-- **Laurent Serisi:** İzole tekillik etrafında $f(z) = \sum_{n=-\infty}^\infty a_n (z-a)^n$.
-- **Tekillikler:** Kaldırılabilir, kutup (pole), esaslı tekillik.
-- **Rezidü:** $\text{Res}(f, a) = a_{-1}$ — Laurent serisinin $-1$. katsayısı.
-- **Rezidü Teoremi:** $\oint_\gamma f(z)\,dz = 2\pi i \sum \text{Res}(f, a_k)$.
-
-### Uygulamalar
-
-- **Gerçek İntegraller:** $\int_{-\infty}^\infty \frac{dx}{1+x^2} = \pi$ gibi hesaplamalar.
-- **Argüman Prensibi:** $f$'nin sıfır ve kutup sayıları hakkında bilgi.
-- **Rouché Teoremi:** İki fonksiyon arasındaki sıfır sayıları karşılaştırması.
-- **Riemann Haritalama Teoremi:** Her basit bağlantılı bölge birim diske konform eşdeğerdir.
-
-
+Lecture note links will be added soon.
 ## Recommended Books
 
 

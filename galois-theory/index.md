@@ -17,39 +17,7 @@ title: Galois Theory (Galois Teorisi)
 
 ## Core Concepts
 
-
-### Temel Kavramlar
-
-#### Cisim Uzantıları
-- **Cisim Uzantısı:** $F \subseteq K$ — $K$, $F$ üzerinde vektör uzayı.
-- **Derece:** $[K:F] = \dim_F K$.
-- **Basit Uzantı:** $K = F(\alpha)$ — tek eleman ekleyerek elde edilir.
-- **Cebirsel Eleman:** $\alpha \in K$, $F$ üzerinde bir polinomun kökü.
-- **Minimal Polinom:** $\alpha$'nın $F$'e göre minimal polinomu, irredüktibil.
-- **Kule Yasası:** $[K:F] = [K:E][E:F]$ ($F \subseteq E \subseteq K$).
-
-#### Bölüm Cisimleri
-- **Bölüm Cismi $F(\alpha)$:** $F[x]/\langle p(x) \rangle$ — $p(x)$ irredüktibil polinomun bölüm halkası.
-- **Splitting Field (Ayrışım Cismi):** Bir polinomun tüm köklerini içeren en küçük cisim uzantısı.
-- **Cebirsel Kapanış:** Her polinom köke sahip olan cisim uzantısı $\overline{F}$.
-
-#### Galois Grubu
-- **Galois Grubu:** $\text{Gal}(K/F)$ — $F$'i sabit tutan $K \to K$ otomorfizmaları.
-- **Galois Uzantısı:** Normal ve separable cisim uzantısı; $|\text{Gal}(K/F)| = [K:F]$.
-- **Fundamental Teorem:** Alt gruplar $\leftrightarrow$ Ara cisimler arasında bire-bir Galois yazışması.
-
-#### Çözülebilirlik
-- **Çözülebilir Grup:** Subnormal serisi abelyan bölümlerle sonlanan grup.
-- **Abel Teoremi:** Genel 5. ve üzeri dereceli denklemler kök radikalleri ile çözülemez.
-- **Galois Kriteri:** $f(x)$ kök radikalleriyle çözülebilir $\iff$ $\text{Gal}(K/F)$ çözülebilir.
-
-### Örnekler
-
-- $\text{Gal}(\mathbb{Q}(\sqrt{2})/\mathbb{Q}) \cong \mathbb{Z}_2$.
-- $\text{Gal}(\mathbb{Q}(\zeta_n)/\mathbb{Q}) \cong (\mathbb{Z}/n\mathbb{Z})^*$ — devirli cisim uzantıları.
-- $x^4 - 2$ polinomunun ayrışım cismi ve Galois grubu $D_4$.
-
-
+Lecture note links will be added soon.
 ## Recommended Books
 
 
