@@ -1,3 +1,20 @@
 title: Mathematics Resources Hub
+description: "Lisans öğrencileri için matematik kaynakları merkezi"
 baseurl: ""
 url: ""
+
+theme: minima
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+plugins:
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
