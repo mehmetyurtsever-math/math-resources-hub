@@ -20,7 +20,11 @@
   <header class="site-header">
     <div class="header-inner">
       <a class="site-title" href="{{ '/' | relative_url }}">📚 {{ site.title }}</a>
-      <nav class="site-nav">
+      <div class="site-search">
+        <input id="site-search-input" type="search" placeholder="Search topics…" aria-label="Search navigation links" autocomplete="off">
+        <button id="site-search-clear" type="button" aria-label="Clear search">✕</button>
+      </div>
+      <nav id="site-nav" class="site-nav">
         <a href="{{ '/analysis/' | relative_url }}">Analysis</a>
         <a href="{{ '/linear-algebra/' | relative_url }}">Linear Algebra</a>
         <a href="{{ '/abstract-algebra/' | relative_url }}">Abstract Algebra</a>
@@ -60,5 +64,39 @@
       <p class="footer-copyright">© {{ site.title }} — Math resources for undergraduate students</p>
     </div>
   </footer>
+  <script>
+    (function () {
+      var input = document.getElementById('site-search-input');
+      var clearBtn = document.getElementById('site-search-clear');
+      var nav = document.getElementById('site-nav');
+      var links = nav ? Array.from(nav.querySelectorAll('a')) : [];
+
+      function normalize(str) {
+        return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLocaleLowerCase('tr-TR');
+      }
+
+      function filterNav() {
+        var query = normalize(input.value.trim());
+        clearBtn.style.display = query ? 'inline-flex' : 'none';
+        links.forEach(function (a) {
+          if (!query || normalize(a.textContent).indexOf(query) !== -1) {
+            a.style.display = '';
+          } else {
+            a.style.display = 'none';
+          }
+        });
+      }
+
+      input.addEventListener('input', filterNav);
+
+      clearBtn.addEventListener('click', function () {
+        input.value = '';
+        filterNav();
+        input.focus();
+      });
+
+      clearBtn.style.display = 'none';
+    })();
+  </script>
 </body>
 </html>
