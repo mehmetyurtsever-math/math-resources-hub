@@ -21,7 +21,7 @@
     <div class="header-inner">
       <a class="site-title" href="{{ '/' | relative_url }}">📚 {{ site.title }}</a>
       <nav class="site-nav">
-        <a href="{{ '/#analysis' | relative_url }}">Analysis</a>
+        <a href="{{ '/analysis/' | relative_url }}">Analysis</a>
         <a href="{{ '/linear-algebra/' | relative_url }}">Linear Algebra</a>
         <a href="{{ '/abstract-algebra/' | relative_url }}">Abstract Algebra</a>
         <a href="{{ '/group-theory/' | relative_url }}">Group Theory</a>
@@ -42,19 +42,18 @@
 
   <footer class="site-footer">
     <div class="footer-inner">
-      <p>
-        <strong>Hızlı Erişim:</strong>
-        <a href="{{ '/analysis/' | relative_url }}">Analysis</a> ·
-        <a href="{{ '/linear-algebra/' | relative_url }}">Linear Algebra</a> ·
-        <a href="{{ '/abstract-algebra/' | relative_url }}">Abstract Algebra</a> ·
-        <a href="{{ '/group-theory/' | relative_url }}">Group Theory</a> ·
-        <a href="{{ '/logic-and-proofs/' | relative_url }}">Logic &amp; Proofs</a> ·
-        <a href="{{ '/galois-theory/' | relative_url }}">Galois Theory</a> ·
-        <a href="{{ '/commutative-algebra/' | relative_url }}">Commutative Algebra</a> ·
-        <a href="{{ '/complex-analysis/' | relative_url }}">Complex Analysis</a> ·
-        <a href="{{ '/differential-geometry/' | relative_url }}">Differential Geometry</a>
-      </p>
-      <p>© {{ site.title }} — Lisans öğrencileri için matematik kaynakları</p>
+      <ul class="footer-nav">
+        <li><a href="{{ '/analysis/' | relative_url }}">Analysis</a></li>
+        <li><a href="{{ '/linear-algebra/' | relative_url }}">Linear Algebra</a></li>
+        <li><a href="{{ '/abstract-algebra/' | relative_url }}">Abstract Algebra</a></li>
+        <li><a href="{{ '/group-theory/' | relative_url }}">Group Theory</a></li>
+        <li><a href="{{ '/logic-and-proofs/' | relative_url }}">Logic &amp; Proofs</a></li>
+        <li><a href="{{ '/galois-theory/' | relative_url }}">Galois Theory</a></li>
+        <li><a href="{{ '/commutative-algebra/' | relative_url }}">Commutative Algebra</a></li>
+        <li><a href="{{ '/complex-analysis/' | relative_url }}">Complex Analysis</a></li>
+        <li><a href="{{ '/differential-geometry/' | relative_url }}">Differential Geometry</a></li>
+      </ul>
+      <p class="footer-copyright">© {{ site.title }} — Lisans öğrencileri için matematik kaynakları</p>
     </div>
   </footer>
 </body>
