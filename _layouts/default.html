@@ -27,7 +27,17 @@
       <nav id="site-nav" class="site-nav">
         <a href="{{ '/' | relative_url }}">Home</a>
         <a href="{{ '/topics/' | relative_url }}">Topics</a>
-        <a href="{{ '/recommended-links/' | relative_url }}">Recommended Links</a>
+        <a href="{{ '/analysis/' | relative_url }}" data-keywords="analiz analysis limit süreklilik türev integral real analysis metric space">Analysis</a>
+        <a href="{{ '/linear-algebra/' | relative_url }}" data-keywords="linear algebra lineer cebir doğrusal cebir vektör vektör uzayı matris matrix özdeğer eigenvalue eigenvector">Linear Algebra</a>
+        <a href="{{ '/abstract-algebra/' | relative_url }}" data-keywords="abstract algebra soyut cebir grup halka cisim homomorfizm izomorfizm">Abstract Algebra</a>
+        <a href="{{ '/group-theory/' | relative_url }}" data-keywords="group theory grup teorisi symmetry simetri lagrange sylow permutation">Group Theory</a>
+        <a href="{{ '/logic-and-proofs/' | relative_url }}" data-keywords="logic proofs mantık ispat theorem proof induction">Logic &amp; Proofs</a>
+        <a href="{{ '/galois-theory/' | relative_url }}" data-keywords="galois theory cisim uzantısı field extension automorphism polynomial">Galois Theory</a>
+        <a href="{{ '/commutative-algebra/' | relative_url }}" data-keywords="commutative algebra değişmeli cebir ideal noetherian ring module">Commutative Algebra</a>
+        <a href="{{ '/complex-analysis/' | relative_url }}" data-keywords="complex analysis karmaşık analiz holomorphic cauchy residue laurent">Complex Analysis</a>
+        <a href="{{ '/differential-geometry/' | relative_url }}" data-keywords="differential geometry diferansiyel geometri manifold eğrilik curvature geodesic">Differential Geometry</a>
+        <a href="{{ '/algebraic-geometry/' | relative_url }}" data-keywords="algebraic geometry cebirsel geometri variety scheme sheaf cohomology">Algebraic Geometry</a>
+        <a href="{{ '/recommended-links/' | relative_url }}" data-keywords="recommended links önerilen bağlantılar kaynaklar resources">Recommended Links</a>
       </nav>
     </div>
   </header>
@@ -75,23 +85,29 @@
         return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLocaleLowerCase('tr-TR');
       }
 
-      function filterNav() {
+      function applyFilter() {
         var query = normalize(input.value.trim());
         clearBtn.style.display = query ? 'inline-flex' : 'none';
+        var anyVisible = false;
         links.forEach(function (a) {
-          if (!query || normalize(a.textContent).indexOf(query) !== -1) {
+          var label = normalize(a.textContent);
+          var keywords = normalize(a.getAttribute('data-keywords') || '');
+          var haystack = label + ' ' + keywords;
+          if (!query || haystack.indexOf(query) !== -1) {
             a.style.display = '';
+            anyVisible = true;
           } else {
             a.style.display = 'none';
           }
         });
+        nav.classList.toggle('is-empty', query.length > 0 && !anyVisible);
       }
 
-      input.addEventListener('input', filterNav);
+      input.addEventListener('input', applyFilter);
 
       clearBtn.addEventListener('click', function () {
         input.value = '';
-        filterNav();
+        applyFilter();
         input.focus();
       });
 
