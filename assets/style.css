@@ -299,3 +299,63 @@ details[open] > summary {
 @media (max-width: 400px) {
   .topic-grid { grid-template-columns: 1fr; }
 }
+
+/* ===== Header/Footer overlap fix ===== */
+.site-header {
+  padding: 8px 24px;
+}
+
+.header-inner {
+  align-items: flex-start;
+}
+
+.site-nav {
+  row-gap: 6px;
+  justify-content: flex-end;
+  min-width: 0;
+}
+
+.site-nav a {
+  display: inline-flex;
+  align-items: center;
+  white-space: nowrap;
+}
+
+.site-footer {
+  line-height: 1.8;
+}
+
+.footer-inner p {
+  margin: 0;
+}
+
+.footer-inner p + p {
+  margin-top: 10px;
+}
+
+.footer-inner p:first-child {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (max-width: 640px) {
+  .header-inner {
+    gap: 10px;
+  }
+
+  .site-title {
+    width: 100%;
+  }
+
+  .site-nav {
+    width: 100%;
+    justify-content: flex-start;
+  }
+
+  .footer-inner p:first-child {
+    justify-content: flex-start;
+  }
+}
