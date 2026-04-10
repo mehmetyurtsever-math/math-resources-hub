@@ -15,10 +15,10 @@ Calculus araçlarıyla eğriler, yüzeyler ve manifoldların geometrisini incele
 - [do Carmo — Differential Geometry of Curves and Surfaces](https://en.wikipedia.org/wiki/Differential_Geometry_of_Curves_and_Surfaces)
 - [Eigenchris — Tensor Calculus](https://www.youtube.com/@eigenchris)
 
-## Core Concepts
+## 📖 Lecture Notes
 
 Lecture note links will be added soon.
-## Recommended Books
+## 📚 Textbooks
 
 
 ### Başlangıç Seviyesi

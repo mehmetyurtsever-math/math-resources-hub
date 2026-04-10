@@ -15,10 +15,10 @@ The branch of mathematics that studies geometric objects defined by polynomial e
 - [Stacks Project](https://stacks.math.columbia.edu/)
 - [MIT 18.725 — Algebraic Geometry](https://ocw.mit.edu/courses/18-725-algebraic-geometry-fall-2015/)
 
-## Core Concepts
+## 📖 Lecture Notes
 
 Lecture note links will be added soon.
-## Recommended Books
+## 📚 Textbooks
 
 ### Introductory
 

@@ -15,10 +15,10 @@ Değişmeli halkalar, idealler ve modüller üzerine kurulu cebir dalı. Cebirse
 - [James Milne — Commutative Algebra (PDF)](https://www.jmilne.org/math/CourseNotes/CA.pdf)
 - [Stacks Project](https://stacks.math.columbia.edu/)
 
-## Core Concepts
+## 📖 Lecture Notes
 
 Lecture note links will be added soon.
-## Recommended Books
+## 📚 Textbooks
 
 
 ### Başlangıç Seviyesi

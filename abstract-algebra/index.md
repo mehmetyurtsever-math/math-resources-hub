@@ -15,10 +15,10 @@ Gruplar, halkalar ve cisimler gibi cebirsel yapıları aksiyomatik biçimde ince
 - [Keith Conrad's Expository Papers](https://kconrad.math.uconn.edu/blurbs/)
 - [Group Explorer](https://nathancarter.github.io/group-explorer/)
 
-## Core Concepts
+## 📖 Lecture Notes
 
 Lecture note links will be added soon.
-## Recommended Books
+## 📚 Textbooks
 
 
 ### Başlangıç Seviyesi
