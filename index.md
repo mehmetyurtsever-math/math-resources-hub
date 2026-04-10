@@ -25,7 +25,7 @@ title: Home
   </div>
   <div class="feature-item">
     <span class="feature-icon">🎬</span>
-    <h3>Videos &amp; Playlists</h3>
+    <h3>Videos & Playlists</h3>
     <p>University lecture series and YouTube channels handpicked for quality.</p>
   </div>
 </div>
