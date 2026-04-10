@@ -3,9 +3,32 @@ layout: default
 title: Home
 ---
 
-# 📚 Mathematics Resources Hub
+<div class="hero">
+  <h1 class="hero-title">📚 Mathematics Resources Hub</h1>
+  <p class="hero-subtitle">Curated lecture notes, books, websites, and video lectures for undergraduate mathematics — all in one place.</p>
+  <div class="hero-actions">
+    <a class="btn-primary" href="{{ '/topics/' | relative_url }}">Explore Topics</a>
+    <a class="btn-secondary" href="{{ '/recommended-links/' | relative_url }}">Recommended Links</a>
+  </div>
+</div>
 
-A comprehensive collection of math resources for undergraduate students. Each topic includes lecture notes, book recommendations, websites, and video lectures.
+<div class="features-grid">
+  <div class="feature-item">
+    <span class="feature-icon">📖</span>
+    <h3>Lecture Notes</h3>
+    <p>Definitions, theorems, proofs, and worked examples for each subject.</p>
+  </div>
+  <div class="feature-item">
+    <span class="feature-icon">📚</span>
+    <h3>Books</h3>
+    <p>Beginner to advanced recommendations, including free resources.</p>
+  </div>
+  <div class="feature-item">
+    <span class="feature-icon">🎬</span>
+    <h3>Videos &amp; Playlists</h3>
+    <p>University lecture series and YouTube channels handpicked for quality.</p>
+  </div>
+</div>
 
 ---
 
@@ -82,7 +105,3 @@ Browse the topics below — click any card to explore curated resources for that
 </a>
 
 </div>
-
----
-
-> **How to use:** Click a card above to explore that topic. Each topic page contains lecture notes, book recommendations, websites, and video lectures.
