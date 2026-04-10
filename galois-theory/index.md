@@ -18,6 +18,7 @@ title: Galois Theory (Galois Teorisi)
 ## 📖 Lecture Notes
 
 Lecture note links will be added soon.
+
 ## 📚 Textbooks
 
 

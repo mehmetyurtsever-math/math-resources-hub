@@ -20,6 +20,7 @@ Bu sayfa Analysis konusundaki temel kaynakları tek yerde toplar.
 ## 📖 Lecture Notes
 
 Lecture note links will be added soon.
+
 ## 📚 Textbooks
 
 

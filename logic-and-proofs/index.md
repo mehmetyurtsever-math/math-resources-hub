@@ -18,6 +18,7 @@ Matematiksel düşüncenin temeli: önerme mantığı, küme teorisi, ispat tekn
 ## 📖 Lecture Notes
 
 Lecture note links will be added soon.
+
 ## 📚 Textbooks
 
 

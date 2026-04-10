@@ -18,6 +18,7 @@ Karmaşık sayılar üzerinde tanımlı fonksiyonların analizi. Fizik, mühendi
 ## 📖 Lecture Notes
 
 Lecture note links will be added soon.
+
 ## 📚 Textbooks
 
 

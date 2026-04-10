@@ -18,6 +18,7 @@ Simetriyi matematiksel olarak kodlayan cebirsel yapılar. Kristalografi'den kuan
 ## 📖 Lecture Notes
 
 Lecture note links will be added soon.
+
 ## 📚 Textbooks
 
 

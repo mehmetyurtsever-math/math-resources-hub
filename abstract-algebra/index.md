@@ -18,6 +18,7 @@ Gruplar, halkalar ve cisimler gibi cebirsel yapıları aksiyomatik biçimde ince
 ## 📖 Lecture Notes
 
 Lecture note links will be added soon.
+
 ## 📚 Textbooks
 
 

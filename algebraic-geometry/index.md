@@ -18,6 +18,7 @@ The branch of mathematics that studies geometric objects defined by polynomial e
 ## 📖 Lecture Notes
 
 Lecture note links will be added soon.
+
 ## 📚 Textbooks
 
 ### Introductory

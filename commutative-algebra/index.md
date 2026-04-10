@@ -18,6 +18,7 @@ Değişmeli halkalar, idealler ve modüller üzerine kurulu cebir dalı. Cebirse
 ## 📖 Lecture Notes
 
 Lecture note links will be added soon.
+
 ## 📚 Textbooks
 
 
