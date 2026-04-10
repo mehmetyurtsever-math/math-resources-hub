@@ -53,11 +53,10 @@ a:hover { color: var(--primary-hover); text-decoration: none; }
   max-width: 1000px;
   margin: 0 auto;
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 12px;
-  min-height: 60px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
+  padding: 10px 0;
 }
 
 .site-title {
@@ -68,6 +67,8 @@ a:hover { color: var(--primary-hover); text-decoration: none; }
   display: flex;
   align-items: center;
   gap: 8px;
+  padding: 4px 0;
+  flex-shrink: 0;
 }
 
 .site-title:hover { color: var(--primary-hover); text-decoration: none; }
@@ -75,8 +76,15 @@ a:hover { color: var(--primary-hover); text-decoration: none; }
 .site-nav {
   display: flex;
   gap: 4px;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  width: 100%;
+  padding: 4px 0 2px;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
 }
+
+.site-nav::-webkit-scrollbar { display: none; }
 
 .site-nav a {
   color: #a5b4fc;
@@ -85,6 +93,8 @@ a:hover { color: var(--primary-hover); text-decoration: none; }
   padding: 5px 10px;
   border-radius: 6px;
   transition: background var(--transition), color var(--transition);
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 
 .site-nav a:hover {
@@ -287,10 +297,30 @@ details[open] > summary {
 
 .footer-inner p + p { margin-top: 10px; }
 
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 6px 4px;
+  margin-bottom: 12px;
+}
+
+.footer-links a {
+  color: #a5b4fc;
+  padding: 3px 8px;
+  border-radius: 4px;
+  font-size: 0.82rem;
+  transition: background var(--transition), color var(--transition);
+}
+
+.footer-links a:hover {
+  color: #fff;
+  background: rgba(99, 102, 241, 0.18);
+}
+
 /* ---------- Responsive ---------- */
 @media (max-width: 640px) {
   h1 { font-size: 1.6rem; }
-  .site-nav { gap: 2px; }
   .site-nav a { font-size: 0.78rem; padding: 4px 8px; }
   .topic-grid { grid-template-columns: 1fr 1fr; gap: 12px; }
   .page-content { padding: 28px 16px; }
