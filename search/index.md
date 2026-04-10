@@ -40,14 +40,32 @@ permalink: /search/
   function getSnippet(content, query) {
     var normContent = normalize(content);
     var normQuery = normalize(query);
-    var idx = normContent.indexOf(normQuery);
-    if (idx === -1) return escapeHtml(content.substring(0, 160)) + '&hellip;';
-    var start = Math.max(0, idx - 60);
-    var end = Math.min(content.length, idx + query.length + 100);
+    var normIdx = normContent.indexOf(normQuery);
+    if (normIdx === -1) return escapeHtml(content.substring(0, 160)) + '&hellip;';
+    // Map normalized index to original content index.
+    // Combining characters (length 0 after normalization) are skipped so we
+    // always land on a visible base character, handling both precomposed and
+    // NFD-decomposed source text correctly.
+    var normPos = 0;
+    var origStart = 0;
+    for (var i = 0; i < content.length; i++) {
+      var nc = normalize(content[i]);
+      if (normPos >= normIdx && nc.length > 0) { origStart = i; break; }
+      normPos += nc.length;
+    }
+    // Advance through original content until normQuery.length normalized chars consumed.
+    var origEnd = origStart;
+    var charsLeft = normQuery.length;
+    for (var j = origStart; j < content.length && charsLeft > 0; j++) {
+      charsLeft -= normalize(content[j]).length;
+      origEnd = j + 1;
+    }
+    var start = Math.max(0, origStart - 60);
+    var end = Math.min(content.length, origEnd + 100);
     var snippet = (start > 0 ? '&hellip;' : '') +
-      escapeHtml(content.substring(start, idx)) +
-      '<mark class="search-highlight">' + escapeHtml(content.substring(idx, idx + query.length)) + '</mark>' +
-      escapeHtml(content.substring(idx + query.length, end)) +
+      escapeHtml(content.substring(start, origStart)) +
+      '<mark class="search-highlight">' + escapeHtml(content.substring(origStart, origEnd)) + '</mark>' +
+      escapeHtml(content.substring(origEnd, end)) +
       (end < content.length ? '&hellip;' : '');
     return snippet;
   }
